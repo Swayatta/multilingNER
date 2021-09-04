@@ -56,14 +56,14 @@ def corpus_reader(path, delim='\t', word_idx=0, label_idx=-1):
         for line in reader:
             line = line.strip()
             cols = line.split(delim)
-            if len(cols)<2 and cols[0]=='NULL':
-                if len(tmp_tok) > 0:
-                    tokens.append(tmp_tok); labels.append(tmp_lab)
-                tmp_tok = []
-                tmp_lab = []
-                
+            if len(cols)<2 and cols[0] == '' :
+              if len(tmp_tok) > 0 and len(tmp_tok)<110:
+                  tokens.append(tmp_tok); labels.append(tmp_lab)
+              tmp_tok = []
+              tmp_lab = []
             elif len(cols)<2:
               continue
+
             else:
                 tmp_tok.append(cols[word_idx])
                 tmp_lab.append(cols[label_idx])
@@ -115,23 +115,22 @@ def pad(batch):
     get_element = lambda x: [sample[x] for sample in batch]
     seq_len = get_element(1)
     maxlen = np.array(seq_len).max()
-    do_pad = lambda x, seqlen: [sample[x] + [0] * (seqlen - len(sample[x])) for sample in batch] # 0: <pad>
+    # print("Maxlength = ",maxlen)
+    maxlen = 128
+    do_pad = lambda x, seqlen: [sample[x][:maxlen] + [0] * (seqlen - len(sample[x])) for sample in batch] # 0: <pad>
     tok_ids = do_pad(0, maxlen)
     attn_mask = [[(i>0) for i in ids] for ids in tok_ids] 
     LT = torch.LongTensor
     label = do_pad(3, maxlen)
-
     # sort the index, attn mask and labels on token length
     token_ids = get_element(0)
     token_ids_len = torch.LongTensor(list(map(len, token_ids)))
     _, sorted_idx = token_ids_len.sort(0, descending=True)
-
     tok_ids = LT(tok_ids)[sorted_idx]
     attn_mask = LT(attn_mask)[sorted_idx]
     labels = LT(label)[sorted_idx]
     org_tok_map = get_element(2)
     sents = get_element(-1)
-
     return tok_ids, attn_mask, org_tok_map, labels, sents, list(sorted_idx.cpu().numpy())
 
 class Bert_CRF(BertPreTrainedModel):
@@ -159,7 +158,7 @@ class Bert_CRF(BertPreTrainedModel):
 
 def generate_training_data(config, bert_tokenizer="bert-base", do_lower_case=True):
     training_data, validation_data = config.data_dir+config.training_data, config.data_dir+config.val_data 
-    train_sentences, train_labels, label_set = corpus_reader(training_data, delim='\t')
+    train_sentences, train_labels, label_set = corpus_reader(training_data, delim=' ')
     label_set.append('X')
     tag2idx = {t:i for i, t in enumerate(label_set)}
     print('Training datas: ', len(train_sentences))
@@ -194,7 +193,7 @@ def generate_test_data(config, tag2idx, bert_tokenizer="bert-base", do_lower_cas
     return test_iter
 
 def train(train_iter, eval_iter, tag2idx, config, bert_model="bert-base-uncased"):
-    #print('#Tags: ', len(tag2idx))
+    # print('#Tags: ', len(tag2idx))
     unique_labels = list(tag2idx.keys())
     model = Bert_CRF.from_pretrained(bert_model, num_labels = len(tag2idx))
     model.train()
@@ -202,7 +201,7 @@ def train(train_iter, eval_iter, tag2idx, config, bert_model="bert-base-uncased"
       model.cuda()
     num_epoch = config.epoch
     gradient_acc_steps = 1
-    t_total = len(train_iter) // gradient_acc_steps * num_epoch
+    t_total = len(train_iter) // gradient_acc_steps * num_epoch 
     no_decay = ['bias', 'LayerNorm.weight']
     optimizer_grouped_parameters = [
         {
@@ -254,45 +253,45 @@ def train(train_iter, eval_iter, tag2idx, config, bert_model="bert-base-uncased"
         #'''
         #Y_pred = []
         #Y_true = []
-        val_loss = 0.0
-        model.eval()
-        writer = open(config.apr_dir + 'prediction_'+str(epoch)+'.csv', 'w')
-        for i, batch in enumerate(eval_iter):
-            token_ids, attn_mask, org_tok_map, labels, original_token, sorted_idx = batch
-            #attn_mask.dt
-            inputs = {'input_ids': token_ids.to(device),
-                      'attn_masks' : attn_mask.to(device)
-                     }  
+        # val_loss = 0.0
+        # model.eval()
+        # writer = open(config.apr_dir + 'prediction_'+str(epoch)+'.csv', 'w')
+        # for i, batch in enumerate(eval_iter):
+        #     token_ids, attn_mask, org_tok_map, labels, original_token, sorted_idx = batch
+        #     #attn_mask.dt
+        #     inputs = {'input_ids': token_ids.to(device),
+        #               'attn_masks' : attn_mask.to(device)
+        #              }  
             
-            dev_inputs = {'input_ids' : token_ids.to(device),
-                         'attn_masks' : attn_mask.to(device),
-                         'labels' : labels.to(device)
-                         } 
-            with torch.torch.no_grad():
-                tag_seqs = model(**inputs)
-                tmp_eval_loss = model(**dev_inputs)
-            val_loss += tmp_eval_loss.item()
-            #print(labels.numpy())
-            y_true = list(labels.cpu().numpy())
-            for i in range(len(sorted_idx)):
-                o2m = org_tok_map[i]
-                pos = sorted_idx.index(i)
-                for j, orig_tok_idx in enumerate(o2m):
-                    writer.write(original_token[i][j] + '\t')
-                    writer.write(unique_labels[y_true[pos][orig_tok_idx]] + '\t')
-                    pred_tag = unique_labels[tag_seqs[pos][orig_tok_idx]]
-                    if pred_tag == 'X':
-                        pred_tag = 'O'
-                    writer.write(pred_tag + '\n')
-                writer.write('\n')
+        #     dev_inputs = {'input_ids' : token_ids.to(device),
+        #                  'attn_masks' : attn_mask.to(device),
+        #                  'labels' : labels.to(device)
+        #                  } 
+        #     with torch.torch.no_grad():
+        #         tag_seqs = model(**inputs)
+        #         tmp_eval_loss = model(**dev_inputs)
+        #     val_loss += tmp_eval_loss.item()
+        #     #print(labels.numpy())
+        #     y_true = list(labels.cpu().numpy())
+        #     for i in range(len(sorted_idx)):
+        #         o2m = org_tok_map[i]
+        #         pos = sorted_idx.index(i)
+        #         for j, orig_tok_idx in enumerate(o2m):
+        #             writer.write(original_token[i][j] + '\t')
+        #             writer.write(unique_labels[y_true[pos][orig_tok_idx]] + '\t')
+        #             pred_tag = unique_labels[tag_seqs[pos][orig_tok_idx]]
+        #             if pred_tag == 'X':
+        #                 pred_tag = 'O'
+        #             writer.write(pred_tag + '\n')
+        #         writer.write('\n')
                 
-        validation_loss.append(val_loss/len(eval_iter))
-        writer.flush()
-        print('Epoch: ', epoch)
-        command = "python conlleval.py < " + config.apr_dir + "prediction_"+str(epoch)+".csv"
-        process = subprocess.Popen(command,stdout=subprocess.PIPE, shell=True)
-        result = process.communicate()[0].decode("utf-8")
-        print(result)
+        # validation_loss.append(val_loss/len(eval_iter))
+        # writer.flush()
+        # print('Epoch: ', epoch)
+        # command = "python conlleval.py < " + config.apr_dir + "prediction_"+str(epoch)+".csv"
+        # process = subprocess.Popen(command,stdout=subprocess.PIPE, shell=True)
+        # result = process.communicate()[0].decode("utf-8")
+        # print(result)
         torch.save({
             'epoch': epoch,
             'model_state_dict': model.state_dict(),
