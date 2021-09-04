@@ -48,6 +48,7 @@ seed_torch()
 from collections import OrderedDict
 # read the corpus and return them into list of sentences of list of tokens
 def corpus_reader(path, delim='\t', word_idx=0, label_idx=-1):
+    print(path)
     tokens, labels = [], []
     tmp_tok, tmp_lab = [], []
     label_set = []
@@ -158,7 +159,7 @@ def generate_training_data(config, bert_tokenizer="bert-base", do_lower_case=Tru
     train_sentences, train_labels, label_set = corpus_reader(training_data, delim=' ')
     label_set.append('X')
     tag2idx = {t:i for i, t in enumerate(label_set)}
-    #print('Training datas: ', len(train_sentences))
+    # print('Training datas: ', len(train_sentences))
     train_dataset = NER_Dataset(tag2idx, train_sentences, train_labels, tokenizer_path = bert_tokenizer, do_lower_case=do_lower_case)
     # save the tag2indx dictionary. Will be used while prediction
     with open(config.apr_dir + 'tag2idx.pkl', 'wb') as f:
@@ -166,7 +167,6 @@ def generate_training_data(config, bert_tokenizer="bert-base", do_lower_case=Tru
     dev_sentences, dev_labels, _ = corpus_reader(validation_data, delim=' ')
     dev_dataset = NER_Dataset(tag2idx, dev_sentences, dev_labels, tokenizer_path = bert_tokenizer, do_lower_case=do_lower_case)
 
-    #print(len(train_dataset))
     train_iter = data.DataLoader(dataset=train_dataset,
                                 batch_size=config.batch_size,
                                 shuffle=True,
