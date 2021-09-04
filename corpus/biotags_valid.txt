@@ -60,6 +60,7 @@ in	O
 the	O
 sequence	O
 .	O
+NULL
 results	O
 of	O
 our	O
@@ -81,6 +82,7 @@ to	O
 previous	O
 work	O
 .	O
+NULL
 [	O
 4	O
 ]	O
@@ -101,6 +103,7 @@ letter	O
 transition	O
 model	O
 .	O
+NULL
 other	O
 algorithms	O
 for	O
@@ -121,6 +124,7 @@ for	O
 collaborative	O
 filtering	O
 .	O
+NULL
 in	O
 fact	O
 ,	O
@@ -176,6 +180,7 @@ not	O
 statistically	O
 significant	O
 .	O
+NULL
 such	O
 improvements	O
 are	O
@@ -209,6 +214,7 @@ for	O
 wt09	O
 )	O
 .	O
+NULL
 technical	O
 preliminaries	O
 consider	O
@@ -313,6 +319,7 @@ in	O
 r	O
 reside	O
 .	O
+NULL
 paliwal	O
 /	O
 pattern	O
@@ -365,6 +372,7 @@ pca	B-Algo
 +	O
 hist	O
 .	O
+NULL
 problem	O
 definition	O
 we	O
@@ -381,6 +389,7 @@ more	O
 	O
 formally	O
 .	O
+NULL
 as	O
 a	O
 result	O
@@ -518,6 +527,7 @@ jδ	O
 01×2	O
 1	O
 .	O
+NULL
 perhaps	O
 most	O
 seriously	O
@@ -547,6 +557,7 @@ in	O
 a	O
 constructor	O
 .	O
+NULL
 both	O
 pca	B-Algo
 -	O
@@ -569,6 +580,7 @@ data	O
 driven	O
 manner	O
 .	O
+NULL
 thus	O
 ,	O
 if	O
@@ -610,6 +622,7 @@ the	O
 top	O
 ones	O
 .	O
+NULL
 the	O
 precision	O
 differences	O
@@ -636,6 +649,7 @@ exact	O
 test	O
 )	O
 .	O
+NULL
 however	O
 ,	O
 as	O
@@ -660,6 +674,7 @@ that	O
 of	O
 pagerank	B-Algo
 .	O
+NULL
 tools	O
 and	O
 methodology	O
@@ -684,6 +699,7 @@ fasta	O
 ]	O
 suites	O
 .	O
+NULL
 we	O
 demonstrate	O
 that	O
@@ -730,6 +746,7 @@ least	O
 one	O
 measure	O
 .	O
+NULL
 figure	O
 9	O
 shows	O
@@ -773,6 +790,7 @@ tf	O
 idf	B-Algo
 )	O
 .	O
+NULL
 in	O
 the	O
 lpp	B-Algo
@@ -791,6 +809,7 @@ representation	O
 remain	O
 close	O
 .	O
+NULL
 our	O
 bow	B-Algo
 (	O
@@ -827,6 +846,7 @@ people	O
 marching	O
 ”	O
 .	O
+NULL
 0.4	O
 reranking	O
 performance	O
@@ -908,6 +928,7 @@ scores	O
 p20	O
 )	O
 .	O
+NULL
 algorithm	O
 average	B-Algo
 classification	B-Algo
@@ -1000,6 +1021,7 @@ misclassification	O
 error	O
 increases	O
 .	O
+NULL
 if	O
 the	O
 columns	O
@@ -1080,6 +1102,7 @@ pseudo	O
 -	O
 inverse	O
 .	O
+NULL
 thus	O
 ,	O
 it	O
@@ -1099,6 +1122,7 @@ today	O
 ’s	O
 world	O
 .	O
+NULL
 another	O
 possible	O
 explanation	O
@@ -1124,6 +1148,7 @@ to	O
 the	O
 query	O
 .	O
+NULL
 clarans	B-Algo
 [	O
 6	O
@@ -1151,6 +1176,7 @@ the	O
 optimal	O
 criterion	O
 .	O
+NULL
 the	O
 8	O
 8	O
@@ -1186,6 +1212,7 @@ dct	B-Algo
 transformed	O
 block	O
 .	O
+NULL
 in	O
 this	O
 work	O
@@ -1236,6 +1263,7 @@ motifsampler	O
 34	O
 ]	O
 .	O
+NULL
 as	O
 table	O
 1	O
@@ -1276,6 +1304,7 @@ section	O
 3.1	O
 )	O
 .	O
+NULL
 we	O
 further	O
 demonstrate	O
@@ -1301,6 +1330,7 @@ superior	O
 text	O
 classifiers	B-Algo
 .	O
+NULL
 from	O
 the	O
 training	B-Algo
@@ -1319,6 +1349,7 @@ presentation	O
 form	O
 characters	O
 .	O
+NULL
 by	O
 applying	O
 a	O
@@ -1353,6 +1384,7 @@ obtained	O
 by	O
 pca	B-Algo
 .	O
+NULL
 asynchronous	O
 process	O
 in	O
@@ -1383,6 +1415,7 @@ of	O
 updating	O
 schemes	O
 .	O
+NULL
 using	O
 fs	O
 -	O
@@ -1411,6 +1444,7 @@ produce	O
 good	O
 placements	O
 .	O
+NULL
 [	O
 1	O
 ]	O
@@ -1443,6 +1477,7 @@ for	O
 fast	O
 retrieval	O
 .	O
+NULL
 since	O
 dct	B-Algo
 is	O
@@ -1471,6 +1506,7 @@ corresponding	O
 transform	O
 coefficients	O
 .	O
+NULL
 the	O
 technique	O
 applies	O
@@ -1501,6 +1537,7 @@ standard	O
 zigzag	O
 order	O
 .	O
+NULL
 to	O
 decrease	O
 the	O
@@ -1544,6 +1581,7 @@ vector	O
 of	O
 annotations	O
 .	O
+NULL
 2	O
 related	O
 work	O
@@ -1574,6 +1612,7 @@ volcano	O
 monitoring	O
 system	O
 .	O
+NULL
 the	O
 best	O
 wag	O
@@ -1616,6 +1655,7 @@ corresponding	O
 hmm	B-Algo
 baseline	O
 .	O
+NULL
 a	O
 book	O
 dedicated	O
@@ -1641,6 +1681,7 @@ large	O
 databases	O
 "	O
 .	O
+NULL
 we	O
 used	O
 the	O
@@ -1676,6 +1717,7 @@ belouchrani	O
 et	O
 al	O
 .	O
+NULL
 to	O
 illustrate	O
 the	O
@@ -1695,6 +1737,7 @@ hits	B-Algo
 for	O
 comparison	O
 .	O
+NULL
 (	O
 2000	O
 )	O
@@ -1719,6 +1762,7 @@ wu	O
 et	O
 al	O
 .	O
+NULL
 wave	O
  	O
 #	O
@@ -1747,6 +1791,7 @@ hmm	B-Algo
  	O
 fig	O
 .	O
+NULL
 figure	O
 4	O
 presents	O
@@ -1810,6 +1855,7 @@ d	O
 =	O
 20	O
 .	O
+NULL
 it	O
 is	O
 important	O
@@ -1838,6 +1884,7 @@ model	O
 14	O
 ]	O
 .	O
+NULL
 the	O
 two	O
 methods	O
@@ -1854,6 +1901,7 @@ have	O
 individual	O
 drawbacks	O
 .	O
+NULL
 the	O
 objective	O
 is	O
@@ -1942,6 +1990,7 @@ keller	O
 2002	O
 )	O
 .	O
+NULL
 to	O
 address	O
 the	O
@@ -1981,6 +2030,7 @@ the	O
 clt	O
 model	O
 .	O
+NULL
 3	O
 in	O
 3	O
@@ -2010,6 +2060,7 @@ al	O
 2003	O
 )	O
 .	O
+NULL
 lagrangian	O
 optimization	O
 was	O
@@ -2037,6 +2088,7 @@ in	O
 a	O
 frame	O
 .	O
+NULL
 specifically	O
 in	O
 flickr	O
@@ -2064,6 +2116,7 @@ contribution	O
 jec	O
 )	O
 .	O
+NULL
 some	O
 researchers	O
 have	O
@@ -2096,6 +2149,7 @@ al	O
 2006	O
 ]	O
 .	O
+NULL
 experiments	O
 were	O
 performed	O
@@ -2147,6 +2201,7 @@ in	O
 contextual	O
 labels	O
 .	O
+NULL
 1	O
 	O
 commonalities	O
@@ -2266,6 +2321,7 @@ bmf	O
 business	O
 mgmt	O
 .	O
+NULL
 we	O
 have	O
 chosen	O
@@ -2307,6 +2363,7 @@ to	O
 integral	O
 images	O
 .	O
+NULL
 the	O
 trec	B-Algo
 web	O
@@ -2363,6 +2420,7 @@ through	O
 rd	O
 party	O
 .	O
+NULL
 thus	O
 ,	O
 the	O
@@ -2403,6 +2461,7 @@ hmm	B-Algo
 based	O
 recognizers	O
 .	O
+NULL
 we	O
 try	O
 to	O
@@ -2429,6 +2488,7 @@ in	O
 the	O
 data	O
 .	O
+NULL
 this	O
 work	O
 has	O
@@ -2453,6 +2513,7 @@ models	O
 16	O
 ]	O
 .	O
+NULL
 2003	O
 ;	O
 0:1–32	O
@@ -2487,6 +2548,7 @@ of	O
 conditioned	O
 slice	O
 .	O
+NULL
 additional	O
 related	O
 work	O
@@ -2514,6 +2576,7 @@ for	O
 text	O
 corpora	O
 .	O
+NULL
 designers	O
 have	O
 continued	O
@@ -2532,6 +2595,7 @@ platforms	O
 15	O
 ]	O
 .	O
+NULL
 also	O
 ,	O
 works	O
@@ -2547,6 +2611,7 @@ on	O
 unordered	O
 collections	O
 .	O
+NULL
 based	O
 on	O
 a	O
@@ -2591,6 +2656,7 @@ using	O
 the	O
 fft	O
 .	O
+NULL
 categories	O
 and	O
 subject	O
@@ -2649,6 +2715,7 @@ terms	O
 keywords	O
 1	O
 .	O
+NULL
 one	O
 of	O
 the	O
@@ -2701,6 +2768,7 @@ class	O
 classification	B-Algo
 problems	O
 .	O
+NULL
 methods	O
 test	O
 set	O
@@ -2810,6 +2878,7 @@ the	O
 translation	O
 model	O
 .	O
+NULL
 [	O
 7	O
 ]	O
@@ -2844,6 +2913,7 @@ the	O
 ground	O
 truth	O
 .	O
+NULL
 while	O
 neither	O
 performs	O
@@ -2880,6 +2950,7 @@ comparable	O
 to	O
 topduc2004	O
 .	O
+NULL
 while	O
 there	O
 is	O
@@ -2900,6 +2971,7 @@ outperforms	O
 our	O
 method	O
 .	O
+NULL
 goal	O
 4	O
 :	O
@@ -2995,6 +3067,7 @@ task	O
 :	O
 1	O
 .	O
+NULL
 when	O
 used	O
 with	O
@@ -3010,6 +3083,7 @@ method	O
 for	O
 mlps	B-Algo
 .	O
+NULL
 on	O
 average	B-Algo
 ,	O
@@ -3055,6 +3129,7 @@ the	O
 regular	O
 approach	O
 .	O
+NULL
 sin(90+β−γ	O
 )	O
 finding	O
@@ -3087,6 +3162,7 @@ generated	O
 by	O
 lpp	B-Algo
 .	O
+NULL
 in	O
 general	O
 ,	O
@@ -3118,6 +3194,7 @@ over	O
 the	O
 database	O
 .	O
+NULL
 for	O
 unknown	O
 scene	O
@@ -3150,6 +3227,7 @@ detector	O
 descriptor	O
 available	O
 .	O
+NULL
 however	O
 ,	O
 linear	O
@@ -3180,6 +3258,7 @@ detail	O
 subsequently	O
 )	O
 .	O
+NULL
 alternatively	O
 ,	O
 pca	B-Algo
@@ -3205,6 +3284,7 @@ dx	O
 ̸=	O
 dy	O
 .	O
+NULL
 the	O
 ica	B-Algo
 client	O
@@ -3224,6 +3304,7 @@ remote	O
 computer	O
 screen	O
 .	O
+NULL
 [	O
 11	O
 ]	O
@@ -3249,6 +3330,7 @@ from	O
 local	O
 patches	O
 .	O
+NULL
 via	O
 mrf	B-Algo
 on	O
@@ -3266,6 +3348,7 @@ stereo	O
 6	O
 ]	O
 .	O
+NULL
 bharat	O
 and	O
 henzinger	O
@@ -3280,6 +3363,7 @@ improvements	O
 to	O
 hits	B-Algo
 .	O
+NULL
 each	O
 movie	O
 may	O
@@ -3301,6 +3385,7 @@ visualization	O
 or	O
 spca	B-Algo
 .	O
+NULL
 figure	O
 7	O
 repeats	O
@@ -3321,6 +3406,7 @@ different	O
 network	O
 configurations	O
 .	O
+NULL
 5.2	O
 training	B-Algo
 individual	O
@@ -3344,6 +3430,7 @@ the	O
 47	O
 benchmarks	O
 .	O
+NULL
 both	O
 mafia	O
 [	O
@@ -3362,6 +3449,7 @@ of	O
 the	O
 datasets	O
 .	O
+NULL
 parallel	O
 and	O
 distributed	O
@@ -3431,6 +3519,7 @@ new	O
 job	O
 fig	O
 .	O
+NULL
 the	O
 digital	O
 signal	O
@@ -3457,6 +3546,7 @@ equalization	B-Algo
 is	O
 performed	O
 .	O
+NULL
 4.1	O
 case	O
 study	O
@@ -3481,6 +3571,7 @@ generating	O
 asa	O
 alerts	O
 .	O
+NULL
 3	O
 protein	O
 identification	O
@@ -3526,6 +3617,7 @@ spectra	O
 3	O
 ]	O
 .	O
+NULL
 the	O
 new	O
 problems	O
@@ -3541,6 +3633,7 @@ the	O
 ucpop	O
 distribution	O
 .	O
+NULL
 these	O
 baseline	O
 systems	O
@@ -3578,6 +3671,7 @@ as	O
 the	O
 classifiers	B-Algo
 .	O
+NULL
 if	O
 the	O
 baseline	O
@@ -3641,6 +3735,7 @@ ocean	O
 water	O
 fig	O
 .	O
+NULL
 we	O
 use	O
 the	O
@@ -3674,6 +3769,7 @@ hmm	B-Algo
 14	O
 ]	O
 .	O
+NULL
 whenever	O
 any	O
 interaction	O
@@ -3718,6 +3814,7 @@ in	O
 either	O
 group	O
 .	O
+NULL
 the	O
 best	O
 accuracy	O
@@ -3737,6 +3834,7 @@ the	O
 lda	B-Algo
 model	O
 .	O
+NULL
 while	O
 pca	B-Algo
 is	O
@@ -3765,6 +3863,7 @@ problems	O
 19	O
 ]	O
 .	O
+NULL
 performs	O
 worse	O
 than	O
@@ -3775,6 +3874,7 @@ jst	O
 feature	O
 augmentation	O
 .	O
+NULL
 the	O
 tree	O
 -	O
@@ -3802,6 +3902,7 @@ processing	O
 ,	O
 vol	O
 .	O
+NULL
 we	O
 observe	O
 that	O
@@ -3822,6 +3923,7 @@ bit	O
 rate	O
 coding	O
 .	O
+NULL
 6	O
 we	O
 can	O
@@ -3864,6 +3966,7 @@ xj	O
 yi	O
 )	O
 .	O
+NULL
 simpa	O
 is	O
 implemented	O
@@ -3890,6 +3993,7 @@ mas	O
 17	O
 ]	O
 .	O
+NULL
 xx	O
 ,	O
 month	O
@@ -3975,6 +4079,7 @@ m=100	O
 landmarks	O
 fig	O
 .	O
+NULL
 the	O
 information	O
 exchanged	O
@@ -4000,6 +4105,7 @@ the	O
 remaining	O
 work	O
 .	O
+NULL
 only	O
 the	O
 real	O
@@ -4020,6 +4126,7 @@ redundancy	O
 6][7	O
 ]	O
 .	O
+NULL
 to	O
 test	O
 whether	O
@@ -4101,6 +4208,7 @@ as	O
 the	O
 dependent	O
 .	O
+NULL
 the	O
 plsa	B-Algo
 model	O
@@ -4134,6 +4242,7 @@ user	O
 community	O
 version	O
 .	O
+NULL
 related	O
 work	O
 in	O
@@ -4193,6 +4302,7 @@ learning	O
 14	O
 )	O
 .	O
+NULL
 the	O
 third	O
 paper	O
@@ -4235,6 +4345,7 @@ to	O
 element	O
 retrieval	O
 .	O
+NULL
 we	O
 then	O
 discuss	O
@@ -4266,6 +4377,7 @@ svm	B-Algo
 based	O
 classifier	B-Algo
 .	O
+NULL
 wald	O
 ’s	O
 sequential	O
@@ -4286,6 +4398,7 @@ co	O
 segmented	O
 regions	O
 .	O
+NULL
 table	O
 6	O
 :	O
@@ -4419,6 +4532,7 @@ mapreduce	O
 -	O
 plda	O
 .	O
+NULL
 benchlssvmclassrevl'tex	O
 ;	O
 22/10/2001	O
@@ -4434,6 +4548,7 @@ gestel	O
 ,	O
 j.a.k	O
 .	O
+NULL
 3.2	O
 results	O
 with	O
@@ -4463,6 +4578,7 @@ of	O
 binary	O
 svms	B-Algo
 .	O
+NULL
 as	O
 shown	O
 in	O
@@ -4491,6 +4607,7 @@ all	O
 evaluation	O
 metrics	O
 .	O
+NULL
 the	O
 objective	O
 of	O
@@ -4556,6 +4673,7 @@ jain	O
 1995	O
 )	O
 .	O
+NULL
 since	O
 our	O
 training	B-Algo
@@ -4596,6 +4714,7 @@ and	O
 test	O
 sets	O
 .	O
+NULL
 index	O
 terms	O
 —	O
@@ -4616,6 +4735,7 @@ sort	O
 merge	O
 1	O
 .	O
+NULL
 the	O
 results	O
 of	O
@@ -4644,6 +4764,7 @@ the	O
 text	O
 )	O
 .	O
+NULL
 generally	O
 ,	O
 when	O
@@ -4696,6 +4817,7 @@ maximum	O
 likelihood	O
 estimates	O
 .	O
+NULL
 using	O
 pca	B-Algo
 only	O
@@ -4708,6 +4830,7 @@ to	O
 18	O
 dim	O
 .	O
+NULL
 coreference	O
 identification	O
 given	O
@@ -4737,6 +4860,7 @@ in	O
 the	O
 discourse	O
 .	O
+NULL
 it	O
 can	O
 be	O
@@ -5026,6 +5150,7 @@ hits	B-Algo
 ±24.3	O
 avg	B-Algo
 .	O
+NULL
 we	O
 refer	O
 to	O
@@ -5062,6 +5187,7 @@ no	O
 confusion	O
 )	O
 .	O
+NULL
 many	O
 recent	O
 research	O
@@ -5096,6 +5222,7 @@ that	O
 hmms	B-Algo
 present	O
 .	O
+NULL
 cho	O
 h	O
 davis	O
@@ -5160,6 +5287,7 @@ models	O
 and	O
 algorithms	O
 .	O
+NULL
 for	O
 the	O
 fertility	O
@@ -5196,6 +5324,7 @@ decoding	O
 for	O
 testing	O
 .	O
+NULL
 lle	B-Algo
 [	O
 4	O
@@ -5216,6 +5345,7 @@ a	O
 sparse	O
 matrix	O
 .	O
+NULL
 method	O
 spkr	O
 -10db	O
@@ -5266,6 +5396,7 @@ female2	O
 88.2	O
 tion	O
 .	O
+NULL
 [	O
 31	O
 ]	O
@@ -5288,6 +5419,7 @@ linear	O
 discriminant	O
 analysis	O
 .	O
+NULL
 the	O
 bm25f	B-Algo
 parameters	O
@@ -5309,6 +5441,7 @@ b	O
 =	O
 0.75	O
 .	O
+NULL
 one	O
 of	O
 the	O
@@ -5327,6 +5460,7 @@ based	O
 learning	O
 system	O
 .	O
+NULL
 table	O
 2	O
 :	O
@@ -5514,6 +5648,7 @@ statistically	O
 significant	O
 .	O
 )	O
+NULL
 based	O
 on	O
 the	O
@@ -5552,6 +5687,7 @@ with	O
 no	O
 pruning	O
 .	O
+NULL
 anova	O
 and	O
 variance	O
@@ -5568,6 +5704,7 @@ to	O
 software	O
 productivity	O
 .	O
+NULL
 3d	O
 web	O
 tech	O
@@ -5638,6 +5775,7 @@ hardware	O
 acm	O
 trans	O
 .	O
+NULL
 (	O
 3	O
 )	O
@@ -5662,6 +5800,7 @@ every	O
 sampling	O
 period	O
 .	O
+NULL
 fast	O
 fourier	O
 transform	O
@@ -5676,6 +5815,7 @@ to	O
 frequency	O
 domain	O
 .	O
+NULL
 as	O
 in	O
 the	O
@@ -5697,6 +5837,7 @@ weighted	O
 document	O
 representation	O
 .	O
+NULL
 for	O
 approaches	O
 to	O
@@ -5724,6 +5865,7 @@ proposed	O
 (	O
 cf	O
 .	O
+NULL
 regardless	O
 of	O
 the	O
@@ -5762,6 +5904,7 @@ advanced	O
 vsm	O
 baselines	O
 .	O
+NULL
 even	O
 though	O
 the	O
@@ -5821,6 +5964,7 @@ with	O
 each	O
 query	O
 .	O
+NULL
 here	O
 we	O
 carry	O
@@ -5861,6 +6005,7 @@ the	O
 validation	O
 dataset	O
 .	O
+NULL
 for	O
 our	O
 baseline	O
@@ -5888,6 +6033,7 @@ standard	O
 settings)[6	O
 ]	O
 .	O
+NULL
 part	O
 2	O
 :	O
@@ -6024,6 +6170,7 @@ propulsion	O
 technology	O
 workshop	O
 .	O
+NULL
 in	O
 ipsols	O
 ,	O
@@ -6035,6 +6182,7 @@ over	O
 social	O
 learning	O
 .	O
+NULL
 the	O
 method	O
 proposed	O
@@ -6078,6 +6226,7 @@ speaker	O
 independent	O
 hmm	B-Algo
 .	O
+NULL
 as	O
 expected	O
 the	O
@@ -6106,6 +6255,7 @@ the	O
 ml	O
 alignments	O
 .	O
+NULL
 the	O
 pseudo	O
 dct	B-Algo
@@ -6119,6 +6269,7 @@ little	O
 inherent	O
 ilp	O
 .	O
+NULL
 given	O
 a	O
 document	O
@@ -6169,6 +6320,7 @@ on	O
 two	O
 components	O
 .	O
+NULL
 the	O
 hmm	B-Algo
 starts	O
@@ -6204,6 +6356,7 @@ probability	O
 ω(o|s	O
 )	O
 .	O
+NULL
 storage	O
 of	O
 annotations	O
@@ -6229,6 +6382,7 @@ in	O
 the	O
 database	O
 .	O
+NULL
 p	O
 wave	O
 5.5	O
@@ -6294,6 +6448,7 @@ raw	O
 ecg	O
 data	O
 .	O
+NULL
 the	O
 lpp	B-Algo
 of	O
@@ -6323,6 +6478,7 @@ throughput	O
 of	O
 transitions	O
 .	O
+NULL
 we	O
 compare	O
 the	O
@@ -6357,6 +6513,7 @@ classifier	B-Algo
 knn	B-Algo
 )	O
 .	O
+NULL
 application	O
 to	O
 language	O
@@ -6379,6 +6536,7 @@ models	O
 were	O
 described	O
 .	O
+NULL
 in	O
 agreement	O
 with	O
@@ -6424,6 +6582,7 @@ probabilistic	O
 neural	O
 networks	O
 .	O
+NULL
 because	O
 the	O
 cognitive	O
@@ -6470,6 +6629,7 @@ based	O
 learning	O
 algorithms	O
 .	O
+NULL
 for	O
 lwpr	B-Algo
 learning	O
@@ -6493,6 +6653,7 @@ a	O
 test	O
 set	O
 .	O
+NULL
 isomap	B-Algo
 ,	O
 lle	B-Algo
@@ -6513,6 +6674,7 @@ algorithm	O
 21	O
 ]	O
 .	O
+NULL
 most	O
 work	O
 on	O
@@ -6524,6 +6686,7 @@ based	O
 on	O
 hmms	B-Algo
 .	O
+NULL
 the	O
 aspect	O
 model	O
@@ -6557,6 +6720,7 @@ multinomial	O
 mixture	O
 models	O
 .	O
+NULL
 on	O
 the	O
 other	O
@@ -6643,6 +6807,7 @@ from	O
 being	O
 correct	O
 .	O
+NULL
 moreover	O
 ,	O
 recognition	O
@@ -6664,6 +6829,7 @@ speech	O
 recognition	O
 experiments	O
 .	O
+NULL
 we	O
 use	O
 nbs	O
@@ -6690,6 +6856,7 @@ models	O
 ,	O
 where	O
 .	O
+NULL
 conclusion	O
 .......................................................................................	O
 50	O
@@ -6883,6 +7050,7 @@ ix	O
 	O
 1	O
 .	O
+NULL
 the	O
 wikipedia	O
 promotion	O
@@ -6924,6 +7092,7 @@ ments	O
 being	O
 retrieved	O
 .	O
+NULL
 kea	O
 takes	O
 two	O
@@ -6973,6 +7142,7 @@ in	O
 the	O
 document	O
 .	O
+NULL
 see	O
 [	O
 8	O
@@ -6985,6 +7155,7 @@ of	O
 ilu(k	O
 )	O
 .	O
+NULL
 sezgin	O
 and	O
 davis	O
@@ -7021,6 +7192,7 @@ of	O
 circuit	O
 components	O
 .	O
+NULL
 for	O
 each	O
 kind	O
@@ -7036,6 +7208,7 @@ the	O
 feature	O
 dimension	O
 .	O
+NULL
 precision	O
 (	O
 %	O
@@ -7176,6 +7349,7 @@ queryset	O
 -	O
 java	O
 .	O
+NULL
 conclusion	O
 and	O
 future	O
@@ -7195,6 +7369,7 @@ applications	O
 sga	B-Algo
 )	O
 .	O
+NULL
 lda	B-Algo
 results	O
 were	O
@@ -7216,6 +7391,7 @@ the	O
 lda	B-Algo
 model	O
 .	O
+NULL
 0	O
 words	O
 gives	O
@@ -7238,6 +7414,7 @@ the	O
 baseline	O
 methods	O
 .	O
+NULL
 such	O
 an	O
 experiment	O
@@ -7258,6 +7435,7 @@ evaluate	O
 the	O
 results	O
 .	O
+NULL
 perceptron	B-Algo
 output	O
 density	O
@@ -7314,6 +7492,7 @@ output	O
 figure	O
 5	O
 .	O
+NULL
 perhaps	O
 not	O
 surprisingly	O
@@ -7354,6 +7533,7 @@ more	O
 accurate	O
 classifications	B-Algo
 .	O
+NULL
 a	O
 special	O
 class	O
@@ -7388,6 +7568,7 @@ moea	B-Algo
 2	O
 ]	O
 .	O
+NULL
 each	O
 h.263	O
 encoder	O
@@ -7429,6 +7610,7 @@ hardware	O
 component	O
 respectively	O
 .	O
+NULL
 previous	O
 work	O
 has	O
@@ -7460,6 +7642,7 @@ pagerank	B-Algo
 28	O
 ]	O
 .	O
+NULL
 polynomial	O
 classifier	B-Algo
 the	O
@@ -7479,6 +7662,7 @@ a	O
 polynomial	O
 kernel	O
 .	O
+NULL
 the	O
 second	O
 experiment	O
@@ -7537,6 +7721,7 @@ concurrently	O
 presented	O
 earcons	O
 ?	O
+NULL
 while	O
 this	O
 makes	O
@@ -7564,6 +7749,7 @@ of	O
 index	O
 construction	O
 .	O
+NULL
 on	O
 december	O
 11	O
@@ -7586,6 +7772,7 @@ svd	O
 based	O
 solution	O
 .	O
+NULL
 ripper	B-Algo
 (	O
 repeated	O
@@ -7615,6 +7802,7 @@ irep	O
 6	O
 ]	O
 .	O
+NULL
 the	O
 classifiers	B-Algo
 to	O
@@ -7706,6 +7894,7 @@ respectively	O
 23	O
 ]	O
 .	O
+NULL
 they	O
 indicate	O
 that	O
@@ -7735,6 +7924,7 @@ of	O
 magnitude	O
 lower	O
 .	O
+NULL
 therefore	O
 ,	O
 the	O
@@ -7750,6 +7940,7 @@ speaker	O
 -	O
 specific	O
 .	O
+NULL
 evaluating	O
 various	O
 game	O
@@ -7771,6 +7962,7 @@ and	O
 one	O
 resource	O
 .	O
+NULL
 related	O
 work	O
 the	O
@@ -7791,6 +7983,7 @@ fixed	O
 topology	O
 hmms	B-Algo
 .	O
+NULL
 to	O
 meet	O
 this	O
@@ -7819,6 +8012,7 @@ value	O
 decomposition(svd	O
 )	O
 .	O
+NULL
 current	O
 techniques	O
 for	O
@@ -7844,6 +8038,7 @@ communications	O
 ,	O
 vol	O
 .	O
+NULL
 gmm	O
 based	O
 classifier	B-Algo
@@ -7907,6 +8102,7 @@ dct	B-Algo
 mod2feature	O
 vectors	O
 .	O
+NULL
 5	O
 	O
 2	O
@@ -7931,6 +8127,7 @@ hmm00	O
 ]	O
 .	O
 )	O
+NULL
 closet	O
 uses	O
 a	O
@@ -7945,6 +8142,7 @@ of	O
 the	O
 dataset	O
 .	O
+NULL
 using	O
 cascade	O
 adaboost	B-Algo
@@ -7968,6 +8166,7 @@ of	O
 cascade	O
 adaboost	B-Algo
 .	O
+NULL
 we	O
 also	O
 proposed	O
@@ -7984,6 +8183,7 @@ in	O
 23	O
 ]	O
 .	O
+NULL
 we	O
 are	O
 also	O
@@ -8000,6 +8200,7 @@ its	O
 related	O
 parameters	O
 .	O
+NULL
 for	O
 the	O
 k	O
@@ -8035,6 +8236,7 @@ package	O
 3	O
 ]	O
 .	O
+NULL
 the	O
 optimisation	O
 model	O
@@ -8075,6 +8277,7 @@ pump	O
 operation	O
 policies	O
 .	O
+NULL
 zadrozny	O
 and	O
 elkan[7	O
@@ -8110,6 +8313,7 @@ and	O
 decision	O
 trees	O
 .	O
+NULL
 we	O
 gave	O
 users	O
@@ -8195,6 +8399,7 @@ y!boss	O
 table	O
 ii	O
 .	O
+NULL
 2.5	O
 neural	O
 power	O
@@ -8238,6 +8443,7 @@ say	O
 the	O
 least	O
 .	O
+NULL
 in	O
 one	O
 of	O
@@ -8272,6 +8478,7 @@ model	O
 3	O
 ]	O
 .	O
+NULL
 many	O
 machine	O
 learning	O
@@ -8288,6 +8495,7 @@ examples	O
 of	O
 regularization	O
 .	O
+NULL
 g.	O
 guleryuz	O
 ,	O
@@ -8313,6 +8521,7 @@ letters	O
 ,	O
 vol	O
 .	O
+NULL
 performance	O
 with	O
 the	O
@@ -8353,6 +8562,7 @@ worst	O
 performing	O
 words	O
 .	O
+NULL
 participants	O
 also	O
 used	O
@@ -8415,6 +8625,7 @@ the	O
 model	O
 )	O
 .	O
+NULL
 however	O
 ,	O
 as	O
@@ -8431,6 +8642,7 @@ the	O
 best	O
 performance	O
 .	O
+NULL
 we	O
 can	O
 see	O
@@ -8455,6 +8667,7 @@ outperforms	O
 the	O
 hmm	B-Algo
 .	O
+NULL
 in	O
 addition	O
 ,	O
@@ -8529,6 +8742,7 @@ of	O
 managers	O
 }	O
 .	O
+NULL
 (	O
 iii	O
 )	O
@@ -8548,6 +8762,7 @@ high	O
 classification	B-Algo
 accuracy	O
 .	O
+NULL
 both	O
 fg	O
 and	O
@@ -8584,6 +8799,7 @@ and	O
 coherence	O
 granularity	O
 .	O
+NULL
 this	O
 approach	O
 consists	O
@@ -8612,6 +8828,7 @@ see	O
 figure	O
 5	O
 .	O
+NULL
 4	O
 conclusions	O
 and	O
@@ -8648,6 +8865,7 @@ from	O
 research	O
 papers	O
 .	O
+NULL
 on	O
 the	O
 hm	O
@@ -8687,6 +8905,7 @@ j	O
 )	O
 relation	O
 .	O
+NULL
 hoeffding	O
 perceptron	B-Algo
 trees	O
@@ -8701,6 +8920,7 @@ in	O
 section	O
 3	O
 .	O
+NULL
 scoring	O
 matrix	O
 blosum45	O
@@ -8795,6 +9015,7 @@ tradeoff	O
 as	O
 required	O
 .	O
+NULL
 meta	O
 -	O
 learning	O
@@ -8826,6 +9047,7 @@ chapelle	O
 et	O
 al	O
 .	O
+NULL
 note	O
 that	O
 the	O
@@ -8868,6 +9090,7 @@ solve	O
 using	O
 sedumi	O
 .	O
+NULL
 2	O
 background	O
 in	O
@@ -8897,6 +9120,7 @@ svms	B-Algo
 to	O
 categorisation	O
 .	O
+NULL
 the	O
 ranking	O
 svm	B-Algo
@@ -8915,6 +9139,7 @@ a	O
 rbf	B-Algo
 kernel	O
 .	O
+NULL
 a	O
 detailed	O
 tutorial	O
@@ -8939,6 +9164,7 @@ rabiner	O
 22	O
 ]	O
 .	O
+NULL
 in	O
 (	O
 azar	O
@@ -8966,6 +9192,7 @@ web	O
 link	O
 structure	O
 .	O
+NULL
 application	O
 context	O
 the	O
@@ -8993,6 +9220,7 @@ cme	O
 25	O
 ]	O
 .	O
+NULL
 smart	O
 unix	O
 svr4	O
@@ -9001,6 +9229,7 @@ performance	O
 104	O
 6.4	O
 .	O
+NULL
 the	O
 leading	O
 thread	O
@@ -9041,6 +9270,7 @@ committing	O
 the	O
 instructions	O
 .	O
+NULL
 classical	O
 boosting	O
 algorithms	O
@@ -9057,6 +9287,7 @@ noise	O
 free	O
 data	O
 .	O
+NULL
 4a	O
 depicts	O
 the	O
@@ -9088,6 +9319,7 @@ lda	B-Algo
 transformed	O
 features	O
 .	O
+NULL
 approach	O
 map	O
 p10	O
@@ -9113,6 +9345,7 @@ filter	O
 +	O
 prom	O
 .	O
+NULL
 semantic	O
 content	O
 annotation	O
@@ -9127,6 +9360,7 @@ semantic	O
 content	O
 retrieval	O
 .	O
+NULL
 this	O
 is	O
 a	O
@@ -9152,6 +9386,7 @@ and	O
 300,000	O
 states	O
 .	O
+NULL
 since	O
 the	O
 n	O
@@ -9190,6 +9425,7 @@ idf	B-Algo
 computation	O
 4	O
 .	O
+NULL
 past	O
 approaches	O
 have	O
@@ -9214,6 +9450,7 @@ flow	O
 7	O
 ]	O
 .	O
+NULL
 3.1	O
 previous	O
 work	O
@@ -9259,6 +9496,7 @@ al	O
 2005	O
 )	O
 .	O
+NULL
 [	O
 6	O
 ]	O
@@ -9281,6 +9519,7 @@ russ	O
 et	O
 al	O
 .	O
+NULL
 in	O
 the	O
 online	O
@@ -9319,6 +9558,7 @@ to	O
 the	O
 query	O
 .	O
+NULL
 [	O
 5	O
 ]	O
@@ -9334,6 +9574,7 @@ and	O
 content	O
 infromation	O
 .	O
+NULL
 then	O
 a	O
 test	O
@@ -9347,6 +9588,7 @@ the	O
 knn	B-Algo
 classifier	B-Algo
 .	O
+NULL
 the	O
 spr	O
 method	O
@@ -9376,6 +9618,7 @@ ppr	O
 w2w	O
 method	O
 .	O
+NULL
 we	O
 tried	O
 a	O
@@ -9399,6 +9642,7 @@ performed	O
 the	O
 best	O
 .	O
+NULL
 a	O
 better	O
 strategy	O
@@ -9443,6 +9687,7 @@ on	O
 motion	O
 representations	O
 .	O
+NULL
 performance	O
 of	O
 different	O
@@ -9495,6 +9740,7 @@ and	O
 ,	O
 respectively	O
 .	O
+NULL
 note	O
 that	O
 even	O
@@ -9532,6 +9778,7 @@ supports	O
 only	O
 singletons	O
 .	O
+NULL
 6.2.1	O
 comparison	O
 of	O
@@ -9712,6 +9959,7 @@ right	O
 bar	O
 )	O
 .	O
+NULL
 however	O
 ,	O
 in	O
@@ -9733,6 +9981,7 @@ to	O
 be	O
 calculated	O
 .	O
+NULL
 the	O
 methods	O
 taken	O
@@ -9818,6 +10067,7 @@ tag	O
 based	O
 methods	O
 .	O
+NULL
 without	O
 any	O
 dimensionality	O
@@ -9840,6 +10090,7 @@ the	O
 pca	B-Algo
 conversion	O
 .	O
+NULL
 this	O
 transformation	O
 enables	O
@@ -9872,6 +10123,7 @@ by	O
 each	O
 attribute	O
 .	O
+NULL
 data	O
 km	O
 nc	O
@@ -10105,6 +10357,7 @@ in	O
 reasonable	O
 time	O
 .	O
+NULL
 this	O
 movement	O
 information	O
@@ -10149,6 +10402,7 @@ global	O
 information	O
 )	O
 .	O
+NULL
 comparison	O
 methods	O
 for	O
@@ -10211,6 +10465,7 @@ in	O
 decreasing	O
 order	O
 .	O
+NULL
 we	O
 showed	O
 that	O
@@ -10240,6 +10495,7 @@ key	O
 flow	O
 features	O
 .	O
+NULL
 the	O
 second	O
 one	O
@@ -10270,6 +10526,7 @@ or	O
 surf	B-Algo
 )	O
 .	O
+NULL
 (	O
 9	O
 )	O
@@ -10301,6 +10558,7 @@ interference	O
 term	O
 and	O
 .	O
+NULL
 forced	O
 alignment	O
 was	O
@@ -10323,6 +10581,7 @@ baseline	O
 hmm	B-Algo
 system	O
 .	O
+NULL
 [	O
 5	O
 ]	O
@@ -10349,6 +10608,7 @@ hmm	B-Algo
 ieice	O
 trans	O
 .	O
+NULL
 although	O
 traditional	O
 rule	O
@@ -10389,6 +10649,7 @@ learning	O
 a	O
 classifier	B-Algo
 .	O
+NULL
 two	O
 existing	O
 algorithms	O
@@ -10404,6 +10665,7 @@ hboa	O
 and	O
 seam	O
 .	O
+NULL
 another	O
 approach	O
 is	O
@@ -10431,6 +10693,7 @@ dimensionality	O
 reduced	O
 data	O
 .	O
+NULL
 eigenspace	O
 -	O
 based	O
@@ -10472,6 +10735,7 @@ totally	O
 ng	O
 gaussians	O
 .	O
+NULL
 introduction	O
 gaussian	O
 mixture	O
@@ -10506,6 +10770,7 @@ decade	O
 or	O
 two	O
 .	O
+NULL
 each	O
 data	O
 point	O
@@ -10551,6 +10816,7 @@ two	O
 levels	O
 (	O
 e.g.	O
+NULL
 however	O
 ,	O
 these	O
@@ -10586,6 +10852,7 @@ blast	O
 match	O
 model	O
 .	O
+NULL
 the	O
 mdl	O
 scheme	O
@@ -10610,6 +10877,7 @@ of	O
 lifting	O
 stages	O
 .	O
+NULL
 empirical	O
 study	O
 for	O
@@ -10636,6 +10904,7 @@ denoted	O
 as	O
 sma	O
 .	O
+NULL
 in	O
 section	O
 3	O
@@ -10661,6 +10930,7 @@ parameters	O
 in	O
 svm	B-Algo
 .	O
+NULL
 this	O
 approach	O
 named	O
@@ -10691,6 +10961,7 @@ the	O
 original	O
 measurements	O
 .	O
+NULL
 the	O
 value	O
 of	O
@@ -10714,6 +10985,7 @@ stage	O
 in	O
 blast	O
 .	O
+NULL
 for	O
 the	O
 case	O
@@ -10726,6 +10998,7 @@ shown	O
 in	O
 fig	O
 .	O
+NULL
 in	O
 section	O
 3	O
@@ -10756,6 +11029,7 @@ ls	O
 svm	B-Algo
 )	O
 .	O
+NULL
 a	O
 previous	O
 study	O
@@ -10788,6 +11062,7 @@ software	O
 overhead	O
 cost	O
 .	O
+NULL
 it	O
 is	O
 unclear	O
@@ -10849,6 +11124,7 @@ diversity	O
 task	O
 results	O
 .	O
+NULL
 in	O
 comparison	O
 to	O
@@ -10887,6 +11163,7 @@ phone	O
 posterior	O
 features	O
 .	O
+NULL
 4	O
 compares	O
 the	O
@@ -10907,6 +11184,7 @@ dct	B-Algo
 and	O
 fig	O
 .	O
+NULL
 since	O
 we	O
 have	O
@@ -10954,6 +11232,7 @@ recover	O
 the	O
 block	O
 .	O
+NULL
 section	O
 3	O
 then	O
@@ -10979,6 +11258,7 @@ to	O
 software	O
 engineering	O
 .	O
+NULL
 page	O
 8	O
 of	O
@@ -11024,6 +11304,7 @@ to	O
 the	O
 svm	B-Algo
 .	O
+NULL
 our	O
 method	O
 utilizes	O
@@ -11058,6 +11339,7 @@ this	O
 choice	O
 )	O
 .	O
+NULL
 in	O
 our	O
 previous	O
@@ -11091,6 +11373,7 @@ video	O
 quality	O
 degradation	O
 .	O
+NULL
 classes	O
 recall	O
 precision	O
@@ -11278,6 +11561,7 @@ noun	O
 phrase	O
 )	O
 .	O
+NULL
 our	O
 extensive	O
 experiments	O
@@ -11294,6 +11578,7 @@ in	O
 previous	O
 work	O
 .	O
+NULL
 to	O
 overcome	O
 these	O
@@ -11323,6 +11608,7 @@ have	O
 been	O
 proposed	O
 .	O
+NULL
 :	O
 design	O
 of	O
@@ -11355,6 +11641,7 @@ the	O
 unit	O
 circle	O
 .	O
+NULL
 1	O
 duetotimelimitations	O
 ,	O
@@ -11370,6 +11657,7 @@ multilingual	O
 retrieval	O
 task	O
 .	O
+NULL
 the	O
 lvq	B-Algo
 and	O
@@ -11417,6 +11705,7 @@ likelihood	O
 ml	O
 )	O
 .	O
+NULL
 in	O
 order	O
 to	O
@@ -11450,6 +11739,7 @@ and	O
 score	O
 them	O
 .	O
+NULL
 a	O
 discrete	O
 markov	O
@@ -11479,6 +11769,7 @@ discrete	O
 space	O
 xs	O
 .	O
+NULL
 a	O
 univariate	O
 anova	O
@@ -11511,6 +11802,7 @@ f(8	O
 p<0.0001	O
 )	O
 .	O
+NULL
 form	O
 ,	O
 cd	O
@@ -11549,6 +11841,7 @@ and	O
 word	O
 lm	O
 .	O
+NULL
 the	O
 results	O
 show	O
@@ -11563,6 +11856,7 @@ and	O
 tf*idf	O
 baselines	O
 .	O
+NULL
 then	O
 we	O
 explain	O
@@ -11584,6 +11878,7 @@ applied	O
 in	O
 sec	O
 .	O
+NULL
 ranking	O
 quality	O
 measure	O
@@ -11629,6 +11924,7 @@ to	O
 rank	O
 topics	O
 .	O
+NULL
 in	O
 [	O
 17	O
@@ -11646,6 +11942,7 @@ for	O
 question	O
 classification	B-Algo
 .	O
+NULL
 threshold	O
 roc	O
 nn	O
@@ -11682,6 +11979,7 @@ in	O
 table	O
 1	O
 .	O
+NULL
 this	O
 will	O
 be	O
@@ -11691,6 +11989,7 @@ fisc	O
 with	O
 coefficients	O
 .	O
+NULL
 in	O
 section	O
 2	O
@@ -11711,6 +12010,7 @@ tracking	O
 winnow	B-Algo
 algorithm	O
 .	O
+NULL
 although	O
 there	O
 are	O
@@ -11750,6 +12050,7 @@ eight	O
 data	O
 sets	O
 .	O
+NULL
 although	O
 the	O
 proposed	O
@@ -11780,6 +12081,7 @@ video	O
 coding	O
 standards	O
 .	O
+NULL
 the	O
 estimated	O
 stroke	O
@@ -11798,6 +12100,7 @@ tennis	O
 stroke	O
 sequences	O
 .	O
+NULL
 form	O
 hmms	B-Algo
 decoding	O
@@ -11809,6 +12112,7 @@ ml	O
 ci	O
 pres	O
 .	O
+NULL
 123	O
 	O
 implicit	O
@@ -11840,6 +12144,7 @@ all	O
 search	O
 topics	O
 .	O
+NULL
 1	O
 depicts	O
 errors	O
@@ -11868,6 +12173,7 @@ algorithms	O
 and	O
 2	O
 .	O
+NULL
 the	O
 autonomous	O
 vehicle	O
@@ -11879,6 +12185,7 @@ for	O
 our	O
 experiments	O
 .	O
+NULL
 further	O
 improvement	O
 for	O
@@ -11893,6 +12200,7 @@ the	O
 future	O
 work	O
 .	O
+NULL
 therefore	O
 we	O
 employ	O
@@ -11915,6 +12223,7 @@ detector	O
 and	O
 descriptor	O
 .	O
+NULL
 specifically	O
 ,	O
 based	O
@@ -11951,6 +12260,7 @@ well	O
 as	O
 accuracy	O
 .	O
+NULL
 this	O
 subtle	O
 distinction	O
@@ -11977,6 +12287,7 @@ t	O
 is	O
 not	O
 .	O
+NULL
 in	O
 fact	O
 ,	O
@@ -12002,6 +12313,7 @@ high	O
 pagerank	B-Algo
 score	O
 .	O
+NULL
 similarly	O
 ,	O
 in	O
@@ -12095,6 +12407,7 @@ see	O
 ]	O
 )	O
 .	O
+NULL
 [	O
 15	O
 ]	O
@@ -12108,6 +12421,7 @@ servers	O
 in	O
 ldap	O
 .	O
+NULL
 a	O
 page	O
 farm	O
@@ -12135,6 +12449,7 @@ a	O
 target	O
 page	O
 .	O
+NULL
 figure	O
 5	O
 shows	O
@@ -12166,6 +12481,7 @@ node	O
 neural	O
 network	O
 .	O
+NULL
 these	O
 pu	O
 learning	O
@@ -12234,6 +12550,7 @@ or	O
 svm	B-Algo
 iteratively	O
 .	O
+NULL
 corresponding	O
 graphs	O
 for	O
@@ -12291,6 +12608,7 @@ p20	O
 respectively	O
 )	O
 .	O
+NULL
 since	O
 ,	O
 for	O
@@ -12344,6 +12662,7 @@ the	O
 backward	O
 transform	O
 .	O
+NULL
 for	O
 the	O
 baseline	O
@@ -12364,6 +12683,7 @@ neurons	O
 is	O
 deployed	O
 .	O
+NULL
 34	O
 we	O
 have	O
@@ -12383,6 +12703,7 @@ bootstrapping	O
 algorithm	O
 espresso	O
 .	O
+NULL
 also	O
 ,	O
 since	O
@@ -12405,6 +12726,7 @@ of	O
 the	O
 domain	O
 .	O
+NULL
 but	O
 in	O
 the	O
@@ -12433,6 +12755,7 @@ an	O
 intuitive	O
 way	O
 .	O
+NULL
 we	O
 applied	O
 adaptive	O
@@ -12453,6 +12776,7 @@ for	O
 the	O
 others	O
 .	O
+NULL
 as	O
 mentioned	O
 previously	O
@@ -12474,6 +12798,7 @@ sift	B-Algo
 image	O
 descriptors	O
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -12499,6 +12824,7 @@ standard	O
 tf*idf	O
 baseline	O
 .	O
+NULL
 2	O
 shows	O
 a	O
@@ -12519,6 +12845,7 @@ vector	O
 field	O
 magnitude	O
 .	O
+NULL
 in	O
 this	O
 paper	O
@@ -12555,6 +12882,7 @@ several	O
 years	O
 more	O
 .	O
+NULL
 for	O
 binary	O
 decision	O
@@ -12592,6 +12920,7 @@ mlps	B-Algo
 to	O
 52	O
 .	O
+NULL
 statistical	O
 models	O
 for	O
@@ -12602,6 +12931,7 @@ corresponding	O
 wavelet	O
 coefficients	O
 a.	O
+NULL
 among	O
 them	O
 ,	O
@@ -12625,6 +12955,7 @@ and	O
 labeling	O
 techniques	O
 .	O
+NULL
 [	O
 1	O
 ]	O
@@ -12646,6 +12977,7 @@ and	O
 text	O
 )	O
 .	O
+NULL
 <	O
 frame	O
 name=‘showflight	O
@@ -13074,6 +13406,7 @@ threshold	O
 	O
 info	O
 .	O
+NULL
 23	O
 	O
 gillenwater	O
@@ -13117,6 +13450,7 @@ sdp	O
 (	O
 avg	B-Algo
 .	O
+NULL
 we	O
 can	O
 realize	O
@@ -13128,6 +13462,7 @@ summarization	O
 using	O
 plda	O
 .	O
+NULL
 the	O
 crf	B-Algo
 efficiently	O
@@ -13148,6 +13483,7 @@ dimensional	O
 motif	O
 matching	O
 .	O
+NULL
 the	O
 mapping	O
 of	O
@@ -13164,6 +13500,7 @@ fastmap	O
 23	O
 ]	O
 .	O
+NULL
 [	O
 5	O
 ]	O
@@ -13174,6 +13511,7 @@ hmm	B-Algo
 based	O
 method	O
 .	O
+NULL
 (	O
 xi	O
 ,	O
@@ -13216,6 +13554,7 @@ properties	O
 of	O
 data	O
 .	O
+NULL
 in	O
 [	O
 24	O
@@ -13251,6 +13590,7 @@ fisc	O
 measure	O
 includes	O
 .	O
+NULL
 regarding	O
 object	O
 localization	O
@@ -13292,6 +13632,7 @@ crf	B-Algo
 20,21	O
 ]	O
 .	O
+NULL
 5.1	O
 feature	O
 selection	O
@@ -13327,6 +13668,7 @@ feature	O
 set	O
 used	O
 .	O
+NULL
 this	O
 may	O
 be	O
@@ -13390,6 +13732,7 @@ inference	O
 pass	O
 )	O
 .	O
+NULL
 st	O
 journal	O
 of	O
@@ -13410,6 +13753,7 @@ embedded	O
 systems	O
 7.2	O
 .	O
+NULL
 5.4.3	O
 ranking	O
 on	O
@@ -13442,6 +13786,7 @@ hostrank	O
 figure	O
 7	O
 .	O
+NULL
 (	O
 a	O
 )	O
@@ -13460,10 +13805,12 @@ in	O
 spiht	B-Algo
 algorithm	O
 .	O
+NULL
 lpboost	B-Algo
 2-class	O
 formulation	O
 .	O
+NULL
 rvea	O
 randomly	O
 changes	O
@@ -13481,6 +13828,7 @@ of	O
 motion	O
 vectors	O
 .	O
+NULL
 in	O
 previous	O
 work	O
@@ -13496,6 +13844,7 @@ menczer	O
 et	O
 al	O
 .	O
+NULL
 more	O
 complex	O
 models	O
@@ -13563,6 +13912,7 @@ on	O
 a	O
 freeway	O
 .	O
+NULL
 d.	O
 computational	O
 complexity	O
@@ -13592,6 +13942,7 @@ diagonal	O
 covariance	O
 system	O
 .	O
+NULL
 some	O
 obvious	O
 next	O
@@ -13645,6 +13996,7 @@ hmms	B-Algo
 3	O
 ]	O
 .	O
+NULL
 normalization	O
 mean	B-Algo
 eigenvalue	O
@@ -13723,6 +14075,7 @@ to	O
 four	O
 eigenvectors	O
 .	O
+NULL
 independent	O
 factors	O
 an	O
@@ -13760,6 +14113,7 @@ the	O
 document	O
 themselves	O
 .	O
+NULL
 methods	O
 cacc	O
 (	O
@@ -13836,6 +14190,7 @@ methods	O
 with	O
 ours	O
 .	O
+NULL
 we	O
 focus	O
 on	O
@@ -13868,6 +14223,7 @@ likely	O
 deployment	O
 features	O
 .	O
+NULL
 the	O
 form	O
 of	O
@@ -13881,6 +14237,7 @@ traditional	O
 lvq	B-Algo
 algorithms	O
 .	O
+NULL
 qos	O
 support	O
 for	O
@@ -13907,6 +14264,7 @@ project	O
 6	O
 ]	O
 .	O
+NULL
 t	O
 t	O
 n	O
@@ -13961,6 +14319,7 @@ x2	O
 ,	O
 xn	O
 .	O
+NULL
 for	O
 the	O
 machine	O
@@ -14007,6 +14366,7 @@ crf	B-Algo
 classifier	B-Algo
 o	O
 .	O
+NULL
 in	O
 [	O
 8	O
@@ -14029,6 +14389,7 @@ from	O
 dna	O
 microarray	O
 .	O
+NULL
 carried	O
 out	O
 the	O
@@ -14064,12 +14425,14 @@ pca	B-Algo
 to	O
 thissetting	O
 .	O
+NULL
 of	O
 icassp	O
 ,	O
 may	O
 2003	O
 .	O
+NULL
 the	O
 state	O
 variable	O
@@ -14117,6 +14480,7 @@ the	O
 underlying	O
 process	O
 .	O
+NULL
 for	O
 semi	O
 -	O
@@ -14164,6 +14528,7 @@ e	O
 =	O
 0.1	O
 .	O
+NULL
 for	O
 example	O
 ,	O
@@ -14281,6 +14646,7 @@ created	O
 for	O
 user	O
 a.	O
+NULL
 other	O
 models	O
 by	O
@@ -14315,6 +14681,7 @@ topic	O
 model	O
 lda	B-Algo
 .	O
+NULL
 2	O
 ldap	O
 cache	O
@@ -14335,12 +14702,14 @@ ldap	O
 directory	O
 cache	O
 .	O
+NULL
 v.	O
 short	O
 distance	O
 navigation	O
 mode	O
 a.	O
+NULL
 for	O
 incremental	O
 random	O
@@ -14365,6 +14734,7 @@ game	O
 against	O
 it	O
 .	O
+NULL
 where	O
 formal	O
 trust	O
@@ -14413,6 +14783,7 @@ and	O
 wireless	O
 applications	O
 .	O
+NULL
 specification	O
 and	O
 verification	O
@@ -14461,6 +14832,7 @@ in	O
 figure	O
 1	O
 .	O
+NULL
 basically	O
 ,	O
 the	O
@@ -14487,6 +14859,7 @@ keyword	O
 phoneme	O
 sequence	O
 .	O
+NULL
 (	O
 1999	O
 )	O
@@ -14641,6 +15014,7 @@ of	O
 related	O
 results	O
 .	O
+NULL
 however	O
 ,	O
 even	O
@@ -14713,6 +15087,7 @@ acm	O
 ,	O
 2011	O
 .	O
+NULL
 resource	O
 constraint	O
 in	O
@@ -14736,6 +15111,7 @@ any	O
 optimization	O
 problem	O
 .	O
+NULL
 2.1.3	O
 pagerank	B-Algo
 at	O
@@ -14771,6 +15147,7 @@ model	O
 12	O
 ]	O
 .	O
+NULL
 in	O
 this	O
 system	O
@@ -14807,6 +15184,7 @@ the	O
 local	O
 system	O
 .	O
+NULL
 3.3.5	O
 differences	O
 to	O
@@ -14827,6 +15205,7 @@ work	O
 section	O
 above	O
 .	O
+NULL
 sections	O
 iii	O
 and	O
@@ -14847,6 +15226,7 @@ data	O
 ,	O
 respectively	O
 .	O
+NULL
 we	O
 use	O
 a	O
@@ -14864,6 +15244,7 @@ a	O
 manageable	O
 size	O
 .	O
+NULL
 when	O
 bit	O
 savings	O
@@ -14895,6 +15276,7 @@ the	O
 intra	O
 table	O
 .	O
+NULL
 they	O
 can	O
 be	O
@@ -14948,6 +15330,7 @@ task	O
 and	O
 environment	O
 .	O
+NULL
 given	O
 the	O
 potential	O
@@ -14991,6 +15374,7 @@ in	O
 large	O
 collections	O
 .	O
+NULL
 when	O
 judging	O
 the	O
@@ -15026,6 +15410,7 @@ is	O
 much	O
 smaller	O
 .	O
+NULL
 the	O
 language	O
 used	O
@@ -15047,6 +15432,7 @@ for	O
 complex	O
 actions	O
 .	O
+NULL
 individual	O
 experiment	O
 results	O
@@ -15056,6 +15442,7 @@ svr4	O
 scheduling	O
 classes	O
 .	O
+NULL
 classification	B-Algo
 results	O
 using	O
@@ -15132,6 +15519,7 @@ the	O
 svm	B-Algo
 classifier	B-Algo
 .	O
+NULL
 the	O
 differences	O
 can	O
@@ -15161,9 +15549,11 @@ difficult	O
 to	O
 analyze	O
 .	O
+NULL
 singularvaluedecomposition(svd	O
 )	O
 .	O
+NULL
 for	O
 example	O
 ,	O
@@ -15198,6 +15588,7 @@ compression	O
 applications	O
 (	O
 e.g.	O
+NULL
 there	O
 have	O
 been	O
@@ -15219,6 +15610,7 @@ works	O
 using	O
 pca	B-Algo
 .	O
+NULL
 it	O
 applies	O
 principal	O
@@ -15245,6 +15637,7 @@ artificially	O
 generated	O
 data	O
 .	O
+NULL
 introduction	O
 nowadays	O
 ,	O
@@ -15298,6 +15691,7 @@ security	O
 of	O
 information	O
 .	O
+NULL
 first	O
 ,	O
 hcrfs	B-Algo
@@ -15308,6 +15702,7 @@ and	O
 language	O
 models	O
 .	O
+NULL
 pure	O
 -	O
 cbf	O
@@ -15328,6 +15723,7 @@ most	O
 similar	O
 papers	O
 .	O
+NULL
 [	O
 2	O
 ]	O
@@ -15359,6 +15755,7 @@ and	O
 query	O
 templates	O
 .	O
+NULL
 in	O
 the	O
 terms	O
@@ -15400,6 +15797,7 @@ well	O
 be	O
 small	O
 .	O
+NULL
 the	O
 results	O
 showed	O
@@ -15425,6 +15823,7 @@ with	O
 dimension	O
 features	O
 .	O
+NULL
 it	O
 can	O
 be	O
@@ -15478,6 +15877,7 @@ all	O
 9,600	O
 features	O
 .	O
+NULL
 a	O
 comparison	O
 of	O
@@ -15493,6 +15893,7 @@ in	O
 table	O
 2	O
 .	O
+NULL
 results	O
 of	O
 evaluation	O
@@ -15559,6 +15960,7 @@ trec	B-Algo
 evaluation	O
 tool	O
 .	O
+NULL
 we	O
 see	O
 that	O
@@ -15575,6 +15977,7 @@ best	O
 testset	O
 accuracy	O
 .	O
+NULL
 this	O
 procedure	O
 is	O
@@ -15695,6 +16098,7 @@ of	O
 dimension	O
 3	O
 .	O
+NULL
 the	O
 frequency	O
 matrices	O
@@ -15736,6 +16140,7 @@ h	O
 0.001	O
 )	O
 .	O
+NULL
 we	O
 construct	O
 a	O
@@ -15759,6 +16164,7 @@ this	O
 feature	O
 set	O
 .	O
+NULL
 the	O
 sift	B-Algo
 sdi	O
@@ -15777,6 +16183,7 @@ the	O
 user	O
 profiles	O
 .	O
+NULL
 plsi	B-Algo
 ,	O
 also	O
@@ -15819,6 +16226,7 @@ a	O
 word	O
 )	O
 .	O
+NULL
 the	O
 shape	O
 variation	O
@@ -15845,6 +16253,7 @@ breast	B-Algo
 shape	O
 deformations	O
 .	O
+NULL
 it	O
 can	O
 be	O
@@ -15855,6 +16264,7 @@ surpasses	O
 nb	O
 slightly	O
 .	O
+NULL
 results	O
 on	O
 the	O
@@ -15890,6 +16300,7 @@ the	O
 training	B-Algo
 data	O
 .	O
+NULL
 3-nn	O
 svm	B-Algo
 nb	O
@@ -16121,6 +16532,7 @@ to	O
 better	O
 results	O
 .	O
+NULL
 294	O
 computing	O
 applications	O
@@ -16141,6 +16553,7 @@ april	O
 sage	O
 publications	O
 .	O
+NULL
 on	O
 the	O
 other	O
@@ -16192,6 +16605,7 @@ tried	O
 until	O
 now	O
 .	O
+NULL
 on	O
 the	O
 other	O
@@ -16242,6 +16656,7 @@ data	O
 becomes	O
 large	O
 .	O
+NULL
 these	O
 svm	B-Algo
 classifiers	I-Algo
@@ -16251,6 +16666,7 @@ many	O
 nonindependent	O
 features	O
 .	O
+NULL
 we	O
 use	O
 global	O
@@ -16269,6 +16685,7 @@ through	O
 specialized	O
 kernels	O
 .	O
+NULL
 for	O
 hits	B-Algo
 ,	O
@@ -16325,6 +16742,7 @@ of	O
 the	O
 graph	O
 .	O
+NULL
 but	O
 when	O
  	O
@@ -16349,6 +16767,7 @@ n	O
 =	O
 10	O
 .	O
+NULL
 our	O
 cpca	O
 decoding	O
@@ -16371,6 +16790,7 @@ times	O
 better	O
 performance	O
 .	O
+NULL
 732	O
 	O
 les	O
@@ -16411,6 +16831,7 @@ on	O
 individual	O
 les	O
 .	O
+NULL
 the	O
 receiver	O
 positively	O
@@ -16437,6 +16858,7 @@ number	O
 ,	O
 pp	O
 .	O
+NULL
 4	O
 related	O
 work	O
@@ -16475,6 +16897,7 @@ svm	B-Algo
 ordinal	O
 regression	B-Algo
 .	O
+NULL
 for	O
 lung	O
 ,	O
@@ -16493,6 +16916,7 @@ to	O
 8	O
 errors	O
 .	O
+NULL
 the	O
 icap	O
 (	O
@@ -16522,6 +16946,7 @@ virtex	O
 ii	O
 devices	O
 .	O
+NULL
 this	O
 concept	O
 of	O
@@ -16648,6 +17073,7 @@ a	O
 input	O
 space	O
 .	O
+NULL
 for	O
 the	O
 appl	O
@@ -16751,6 +17177,7 @@ input	O
 table	O
 3	O
 .	O
+NULL
 in	O
 what	O
 follows	O
@@ -16803,6 +17230,7 @@ actions	O
 1	O
  	O
 .	O
+NULL
 2	O
 background	O
 in	O
@@ -16832,6 +17260,7 @@ on	O
 logical	O
 hmms	B-Algo
 .	O
+NULL
 (	O
 adler	O
 and	O
@@ -16863,6 +17292,7 @@ by	O
 our	O
 model	O
 .	O
+NULL
 in	O
 summary	O
 ,	O
@@ -16900,6 +17330,7 @@ trec	B-Algo
 terabyte	O
 track	O
 .	O
+NULL
 at	O
 the	O
 beginning	O
@@ -17129,6 +17560,7 @@ the	O
 entire	O
 search	O
 .	O
+NULL
 svm	B-Algo
 svm	B-Algo
 svm	B-Algo
@@ -17163,6 +17595,7 @@ analysis	O
 initial	O
 results	O
 .	O
+NULL
 the	O
 best	O
 ranking	O
@@ -17177,6 +17610,7 @@ gaussian	O
 plsa	B-Algo
 model	O
 .	O
+NULL
 individual	O
 experiment	O
 results	O
@@ -17205,6 +17639,7 @@ on	O
 application	O
 performance	O
 .	O
+NULL
 frequency	O
 domain	O
 embedding	O
@@ -17217,6 +17652,7 @@ watermarking	O
 6	O
 ]	O
 .	O
+NULL
 [	O
 21	O
 ]	O
@@ -17237,6 +17673,7 @@ for	O
 web	O
 pages	O
 .	O
+NULL
 some	O
 other	O
 recent	O
@@ -17256,6 +17693,7 @@ for	O
 text	O
 categorization	O
 .	O
+NULL
 because	O
 the	O
 training	B-Algo
@@ -17279,6 +17717,7 @@ trained	O
 ls	O
 svm	B-Algo
 .	O
+NULL
 the	O
 mfccs	O
 and	O
@@ -17309,6 +17748,7 @@ to	O
 45	O
 components	O
 .	O
+NULL
 (	O
 iii	O
 )	O
@@ -17340,6 +17780,7 @@ of	O
 section	O
 4	O
 .	O
+NULL
 birch	B-Algo
 is	O
 a	O
@@ -17377,6 +17818,7 @@ up	O
 clustering	B-Algo
 algorithm	O
 .	O
+NULL
 the	O
 mrf	B-Algo
 framework	O
@@ -17390,6 +17832,7 @@ spatially	O
 varying	O
 priors	O
 .	O
+NULL
 8	O
 university	O
 of	O
@@ -17420,6 +17863,7 @@ the	O
 same	O
 topic	O
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -17444,6 +17888,7 @@ descent	O
 optimization	O
 techniques	O
 .	O
+NULL
 gatineau	O
 (	O
 classification	B-Algo
@@ -17647,6 +18092,7 @@ class	O
 1	O
 ’	O
 .	O
+NULL
 dwchs	O
 achieved	O
 74.9	O
@@ -17684,6 +18130,7 @@ the	O
 rest	O
 classification	B-Algo
 .	O
+NULL
 1.1.2	O
 federated	O
 interoperable	O
@@ -17713,6 +18160,7 @@ wyss	O
 et	O
 al	O
 .	O
+NULL
 birch	B-Algo
 first	O
 performs	O
@@ -17733,6 +18181,7 @@ by	O
 compact	O
 summaries	O
 .	O
+NULL
 in	O
 [	O
 5	O
@@ -17749,6 +18198,7 @@ the	O
 dft	B-Algo
 domain	O
 .	O
+NULL
 /	O
 image	O
 and	O
@@ -17779,6 +18229,7 @@ nonlinear	O
 classification	B-Algo
 function	O
 .	O
+NULL
 one	O
 major	O
 advantage	O
@@ -17803,6 +18254,7 @@ the	O
 distance	O
 matrix	O
 .	O
+NULL
 in	O
 the	O
 single-	O
@@ -17817,6 +18269,7 @@ for	O
 each	O
 speaker	O
 .	O
+NULL
 text	O
 -	O
 svm	B-Algo
@@ -17863,6 +18316,7 @@ macro	O
 f1	O
 performance	O
 .	O
+NULL
 of	O
 agriculture/	O
 agricultural	O
@@ -17920,6 +18374,7 @@ soil	O
 roughness	O
 parameterization	O
 .	O
+NULL
 hence	O
 ,	O
 we	O
@@ -17949,6 +18404,7 @@ being	O
 computationally	O
 inexpensive	O
 .	O
+NULL
 58.6	O
 67.3	O
 62.6	O
@@ -18165,6 +18621,7 @@ c4.5	O
 and	O
 ripper	B-Algo
 .	O
+NULL
 note	O
 that	O
 ,	O
@@ -18192,6 +18649,7 @@ non	O
 representative	O
 database	O
 .	O
+NULL
 mpiblast	O
 employs	O
 a	O
@@ -18215,6 +18673,7 @@ its	O
 output	O
 performance	O
 .	O
+NULL
 second	O
 ,	O
 lda	B-Algo
@@ -18233,6 +18692,7 @@ vocabularies	O
 of	O
 concepts	O
 .	O
+NULL
 the	O
 baseline	O
 is	O
@@ -18244,6 +18704,7 @@ gaussian	O
 mixture	O
 hmm	B-Algo
 .	O
+NULL
 (	O
 2004	O
 )	O
@@ -18288,6 +18749,7 @@ anti	O
 spam	O
 filters	O
 .	O
+NULL
 finally	O
 ,	O
 we	O
@@ -18317,6 +18779,7 @@ in	O
 figure	O
 2	O
 .	O
+NULL
 in	O
 this	O
 paper	O
@@ -18336,6 +18799,7 @@ fortran	O
 11	O
 ]	O
 .	O
+NULL
 note	O
 that	O
 there	O
@@ -18378,6 +18842,7 @@ network	O
 flow	O
 experiments	O
 .	O
+NULL
 a	O
 practical	O
 approach	O
@@ -18398,6 +18863,7 @@ rbfs	B-Algo
 is	O
 proposed	O
 .	O
+NULL
 for	O
 clustering	B-Algo
 we	O
@@ -18437,6 +18903,7 @@ galperin	O
 7	O
 ]	O
 .	O
+NULL
 m	O
 -	O
 hash	O
@@ -18460,6 +18927,7 @@ systems	O
 on	O
 intranet	O
 .	O
+NULL
 we	O
 experimented	O
 with	O
@@ -18494,6 +18962,7 @@ dirichlet	O
 smoothing	O
 )	O
 .	O
+NULL
 experimental	O
 results	O
 on	O
@@ -18534,6 +19003,7 @@ based	O
 hits	B-Algo
 model	O
 .	O
+NULL
 ℓph(w	O
 )	O
 =	O
@@ -18615,6 +19085,7 @@ labeled	O
 test	O
 set	O
 .	O
+NULL
 such	O
 dimensionality	O
 reduction	O
@@ -18637,6 +19108,7 @@ see	O
 also	O
 fig	O
 .	O
+NULL
 2	O
 ieee	O
 transactions	O
@@ -18703,6 +19175,7 @@ ii	O
 24	O
 ]	O
 .	O
+NULL
 integrated	O
 the	O
 location	O
@@ -18712,6 +19185,7 @@ keypoints	O
 into	O
 bof	B-Algo
 .	O
+NULL
 we	O
 have	O
 performed	O
@@ -18747,6 +19221,7 @@ c4.5	O
 implementation	O
 )	O
 .	O
+NULL
 replica	O
 placement	O
 problem	O
@@ -18764,6 +19239,7 @@ we	O
 are	O
 solving	O
 .	O
+NULL
 the	O
 graph	O
 (	O
@@ -18798,6 +19274,7 @@ solid	O
 line	O
 )	O
 .	O
+NULL
 in	O
 our	O
 case	O
@@ -18837,6 +19314,7 @@ corpus	O
 idf	B-Algo
 )	O
 .	O
+NULL
 twolf	O
 proceedings	O
 of	O
@@ -18882,6 +19360,7 @@ to	O
 small	O
 loss	O
 .	O
+NULL
 hog	B-Algo
 -	O
 based	O
@@ -18931,6 +19410,7 @@ pictorial	O
 structure	O
 inference	O
 .	O
+NULL
 to	O
 obtain	O
 a	O
@@ -18948,6 +19428,7 @@ lpboost	B-Algo
 1	O
 ]	O
 .	O
+NULL
 we	O
 plan	O
 to	O
@@ -18985,6 +19466,7 @@ qbrank	O
 19	O
 ]	O
 .	O
+NULL
 section	O
 5	O
 describes	O
@@ -19022,12 +19504,14 @@ real	O
 world	O
 experiments	O
 .	O
+NULL
 multi	O
 rate	O
 digital	O
 controller	O
 implementation	O
 a.	O
+NULL
 in	O
 (	O
 kudo	O
@@ -19066,6 +19550,7 @@ polynomial	O
 kernel	O
 space	O
 .	O
+NULL
 both	O
 fftw	O
 and	O
@@ -19083,6 +19568,7 @@ the	O
 same	O
 problem	O
 .	O
+NULL
 wong	O
 has	O
 shown	O
@@ -19107,6 +19593,7 @@ problems	O
 44	O
 ]	O
 .	O
+NULL
 in	O
 klr	B-Algo
 there	O
@@ -19129,6 +19616,7 @@ classifier	B-Algo
 14	O
 ]	O
 .	O
+NULL
 component	O
 -	O
 interleave	O
@@ -19174,6 +19662,7 @@ from	O
 section	O
 6.3	O
 .	O
+NULL
 evaluation	O
 of	O
 the	O
@@ -19209,6 +19698,7 @@ with	O
 without	O
 lda	B-Algo
 .	O
+NULL
 it	O
 also	O
 appears	O
@@ -19249,6 +19739,7 @@ minimum	O
 remains	O
 stable	O
 .	O
+NULL
 text	O
 -	O
 svm	B-Algo
@@ -19274,6 +19765,7 @@ macro	O
 f1	O
 performance	O
 .	O
+NULL
 the	O
 probabilistic	O
 model	O
@@ -19298,6 +19790,7 @@ fields	O
 hmrf	B-Algo
 )	O
 .	O
+NULL
 at	O
 the	O
 decoder	O
@@ -19325,6 +19818,7 @@ equation	O
 2	O
 )	O
 .	O
+NULL
 two	O
 -	O
 dimensional	O
@@ -19345,6 +19839,7 @@ stems	O
 and	O
 leaves	O
 .	O
+NULL
 orclus	O
 (	O
 aggarwal	O
@@ -19369,6 +19864,7 @@ of	O
 orthogonal	O
 vectors	O
 .	O
+NULL
 crews	O
 ,	O
 university	O
@@ -20040,6 +20536,7 @@ europa	O
 -	O
 t.r.e	O
 .	O
+NULL
 [	O
 2	O
 ]	O
@@ -20070,6 +20567,7 @@ number	O
 pp	O
 181–196	O
 .	O
+NULL
 first	O
 ,	O
 we	O
@@ -20084,6 +20582,7 @@ baseline	O
 hmm	B-Algo
 system	O
 .	O
+NULL
 semantic	O
 information	O
 is	O
@@ -20135,6 +20634,7 @@ see	O
 figure	O
 5	O
 .	O
+NULL
 we	O
 examined	O
 the	O
@@ -20166,6 +20666,7 @@ final	O
 hcrf	B-Algo
 model	O
 .	O
+NULL
 lsi	O
 projects	O
 data	O
@@ -20200,6 +20701,7 @@ are	O
 better	O
 preserved	O
 .	O
+NULL
 nukada	O
 and	O
 matsuoka	O
@@ -20227,6 +20729,7 @@ automatically	O
 2	O
 ]	O
 .	O
+NULL
 their	O
 rxw	O
 heuristic	O
@@ -20258,6 +20761,7 @@ data	O
 items	O
 respectively	O
 .	O
+NULL
 performance	O
 comparison	O
 between	O
@@ -20273,6 +20777,7 @@ features	O
 and	O
 dhog	O
 .	O
+NULL
 in	O
 a	O
 previous	O
@@ -20308,6 +20813,7 @@ number	O
 of	O
 models	O
 .	O
+NULL
 to	O
 capture	O
 complex	O
@@ -20341,6 +20847,7 @@ section	O
 2.2.3	O
 )	O
 .	O
+NULL
 2	O
 )	O
 encode	O
@@ -20365,6 +20872,7 @@ encoders	O
 described	O
 previously	O
 .	O
+NULL
 an	O
 incremental	O
 update	O
@@ -20386,6 +20894,7 @@ handle	O
 missing	O
 data	O
 .	O
+NULL
 the	O
 dft	B-Algo
 and	O
@@ -20419,6 +20928,7 @@ many	O
 harmful	O
 variations	O
 .	O
+NULL
 we	O
 show	O
 here	O
@@ -20436,6 +20946,7 @@ md	O
 -	O
 lvq	B-Algo
 .	O
+NULL
 speedup	O
 over	O
 non	O
@@ -20543,6 +21054,7 @@ with	O
 4	O
 processors	O
 .	O
+NULL
 general	O
 categorical	O
 transformations	O
@@ -20586,6 +21098,7 @@ in	O
 fis	B-Algo
 architectures	O
 .	O
+NULL
 hmm	B-Algo
 recognizer	O
  	O
@@ -20605,6 +21118,7 @@ like	O
 speech	O
 units	O
 .	O
+NULL
 initial	O
 threshold	O
 parameters	O
@@ -20621,6 +21135,7 @@ optimality	O
 in	O
 birch	B-Algo
 .	O
+NULL
 log	O
 likelihoods	O
 under	O
@@ -20630,6 +21145,7 @@ were	O
 computed	O
 exactly	O
 .	O
+NULL
 another	O
 approach	O
 based	O
@@ -20665,6 +21181,7 @@ maxent	B-Algo
 2	O
 ]	O
 .	O
+NULL
 first	O
 ,	O
 for	O
@@ -20702,6 +21219,7 @@ access	O
 control	O
 costs	O
 .	O
+NULL
 to	O
 summarize	O
 ,	O
@@ -20724,6 +21242,7 @@ densely	O
 sampled	O
 grid	O
 .	O
+NULL
 at	O
 moderate	O
 compute	O
@@ -20746,6 +21265,7 @@ via	O
 warp	O
 specialization	O
 .	O
+NULL
 0	O
 0	O
 0.5	O
@@ -20919,6 +21439,7 @@ cycle	O
 execution	O
 intervals	O
 .	O
+NULL
 for	O
 completeness	O
 ,	O
@@ -20932,6 +21453,7 @@ all	O
 other	O
 approaches	O
 .	O
+NULL
 algorithms	O
 such	O
 as	O
@@ -20944,6 +21466,7 @@ of	O
 this	O
 idea	O
 .	O
+NULL
 the	O
 optimized	O
 baseline	O
@@ -21197,6 +21720,7 @@ computer	O
 vision	O
 (	O
 e.g.	O
+NULL
 clara	B-Algo
 [	O
 1	O
@@ -21225,6 +21749,7 @@ k	O
 mediod	O
 method	O
 .	O
+NULL
 however	O
 ,	O
 because	O
@@ -21263,6 +21788,7 @@ k	O
 dimensional	O
 space	O
 .	O
+NULL
 various	O
 hardware	O
 supports	O
@@ -21296,6 +21822,7 @@ prototype	O
 17	O
 ]	O
 .	O
+NULL
 they	O
 build	O
 a	O
@@ -21316,6 +21843,7 @@ make	O
 context	O
 clusters	O
 .	O
+NULL
 since	O
 we	O
 compute	O
@@ -21353,6 +21881,7 @@ ng	O
 )	O
 data	O
 .	O
+NULL
 this	O
 may	O
 benefit	O
@@ -21372,6 +21901,7 @@ the	O
 training	B-Algo
 process	O
 .	O
+NULL
 the	O
 first	O
 ,	O
@@ -21397,6 +21927,7 @@ the	O
 language	O
 surf	B-Algo
 .	O
+NULL
 321	O
 r1	O
 r	O
@@ -21646,6 +22177,7 @@ t	O
 t1	O
 ,	O
 .	O
+NULL
 graphical	O
 user	O
 interfaces	O
@@ -21660,6 +22192,7 @@ term	O
 user	O
 interface	O
 .	O
+NULL
 section	O
 4	O
 presents	O
@@ -21671,6 +22204,7 @@ the	O
 nmlp	O
 method	O
 .	O
+NULL
 sn	O
 sus	O
 wsj	O
@@ -21699,6 +22233,7 @@ by	O
 conventional	O
 taggers	O
 .	O
+NULL
 5.3.2	O
 weighted	O
 pagerank	B-Algo
@@ -21719,6 +22254,7 @@ graph	O
 into	O
 blocks	O
 .	O
+NULL
 the	O
 speech	O
 parameters	O
@@ -21732,6 +22268,7 @@ of	O
 adapted	O
 hmms	B-Algo
 .	O
+NULL
 we	O
 also	O
 see	O
@@ -21791,6 +22328,7 @@ hard	O
 connected	O
 crf	B-Algo
 .	O
+NULL
 :	O
 sos	O
 :	O
@@ -21820,6 +22358,7 @@ for	O
 anonymous	O
 communications	O
 .	O
+NULL
 number	O
 of	O
 components	O
@@ -21913,6 +22452,7 @@ already	O
 been	O
 drawn	O
 .	O
+NULL
 biological	O
 background	O
 genes	O
@@ -21923,6 +22463,7 @@ of	O
 our	O
 bodies	O
 .	O
+NULL
 despite	O
 previous	O
 work	O
@@ -21969,6 +22510,7 @@ documents	O
 8	O
 ]	O
 .	O
+NULL
 running	O
 kpca	B-Algo
 on	O
@@ -21992,6 +22534,7 @@ and	O
 ,	O
 respectively	O
 .	O
+NULL
 in	O
 this	O
 work	O
@@ -22018,6 +22561,7 @@ double	O
 sided	O
 schemes	O
 .	O
+NULL
 wre	O
 hmm	B-Algo
 mle	O
@@ -22042,6 +22586,7 @@ model	O
 %	O
 3.2	O
 .	O
+NULL
 to	O
 generate	O
 graphs	O
@@ -22111,6 +22656,7 @@ rbf	B-Algo
 kernels	O
 )	O
 .	O
+NULL
 experiments	O
 with	O
 trec	B-Algo
@@ -22139,6 +22685,7 @@ harman	O
 2005	O
 )	O
 .	O
+NULL
 j.	O
 weston	O
 ,	O
@@ -22166,6 +22713,7 @@ svms	B-Algo
 ,	O
 proc	O
 .	O
+NULL
 it	O
 is	O
 also	O
@@ -22199,6 +22747,7 @@ bayesian	O
 nets	O
 )	O
 .	O
+NULL
 7	O
 days	O
 impact	O
@@ -22248,6 +22797,7 @@ requests	O
 213	O
 9	O
 .	O
+NULL
 for	O
 these	O
 symmetric	O
@@ -22274,6 +22824,7 @@ this	O
 previous	O
 work	O
 .	O
+NULL
 a	O
 server	O
 called	O
@@ -22307,6 +22858,7 @@ protocol	O
 ica	B-Algo
 )	O
 .	O
+NULL
 our	O
 method	O
 is	O
@@ -22338,6 +22890,7 @@ easier	O
 to	O
 train	O
 .	O
+NULL
 table	O
 phase	O
 baseline	O
@@ -22367,6 +22920,7 @@ stage	O
 dev05bcm	O
 cers	O
 .	O
+NULL
 simon	O
 funk	O
 reported	O
@@ -22383,6 +22937,7 @@ his	O
 svd	O
 approach	O
 .	O
+NULL
 this	O
 is	O
 more	O
@@ -22400,6 +22955,7 @@ as	O
 discussed	O
 above	O
 .	O
+NULL
 to	O
 determine	O
 the	O
@@ -22423,6 +22979,7 @@ interesting	O
 open	O
 problem	O
 .	O
+NULL
 kstar	O
 proves	O
 much	O
@@ -22440,6 +22997,7 @@ of	O
 79.91	O
 %	O
 .	O
+NULL
 to	O
 discriminate	O
 between	O
@@ -22464,6 +23022,7 @@ using	O
 statistical	O
 models	O
 .	O
+NULL
 multilingual	O
 runs	O
 we	O
@@ -22501,6 +23060,7 @@ table	O
 2	O
 )	O
 .	O
+NULL
 the	O
 neural	O
 network	O
@@ -22539,6 +23099,7 @@ recurrent	O
 neural	O
 networks	O
 .	O
+NULL
 kriegman	O
 ,	O
 “	O
@@ -22556,6 +23117,7 @@ projection	O
 ”	O
 proc	O
 .	O
+NULL
 section	O
 iii	O
 illustrates	O
@@ -22577,6 +23139,7 @@ high	O
 resolution	O
 svd	O
 .	O
+NULL
 it	O
 626	O
 	O
@@ -22704,6 +23267,7 @@ set	O
 at	O
 500	O
 .	O
+NULL
 baseline	O
 82.53	O
 79.96	O
@@ -22746,6 +23310,7 @@ sentiment	O
 classification	B-Algo
 accuracy	O
 .	O
+NULL
 beside	O
 the	O
 parameter	O
@@ -22765,6 +23330,7 @@ k	O
 in	O
 advance	O
 .	O
+NULL
 the	O
 horizontal	O
 axes	O
@@ -22783,6 +23349,7 @@ numbers	O
 ,	O
 respectively	O
 .	O
+NULL
 4	O
 the	O
 visual	O
@@ -22813,6 +23380,7 @@ in	O
 figure	O
 4	O
 .	O
+NULL
 future	O
 work	O
 suggests	O
@@ -22833,6 +23401,7 @@ to	O
 find	O
 convergence	O
 .	O
+NULL
 statistical	O
 grammar	O
 model	O
@@ -22952,6 +23521,7 @@ glauben	O
 	O
 3.4	O
 .	O
+NULL
 (	O
 2	O
 )	O
@@ -22977,6 +23547,7 @@ to	O
 in	O
 average	B-Algo
 .	O
+NULL
 the	O
 second	O
 key	O
@@ -23004,6 +23575,7 @@ in	O
 objectrank	O
 )	O
 .	O
+NULL
 4c	O
 [	O
 6	O
@@ -23025,6 +23597,7 @@ of	O
 fixed	O
 dimensionality	O
 .	O
+NULL
 the	O
 formulations	O
 of	O
@@ -23075,6 +23648,7 @@ al	O
 2003	O
 )	O
 .	O
+NULL
 in	O
 order	O
 to	O
@@ -23101,6 +23675,7 @@ hyperplane	O
 see	O
 eq	O
 .	O
+NULL
 for	O
 example	O
 ,	O
@@ -23113,6 +23688,7 @@ on	O
 nonlinear	O
 kernels	O
 .	O
+NULL
 the	O
 new	O
 traffic	O
@@ -23140,6 +23716,7 @@ intrusion	O
 detection	O
 decision	O
 .	O
+NULL
 since	O
 the	O
 initial	O
@@ -23159,6 +23736,7 @@ computed	O
 at	O
 runtime	O
 .	O
+NULL
 the	O
 procedure	O
 described	O
@@ -23186,12 +23764,14 @@ in	O
 computational	O
 terms	O
 .	O
+NULL
 examples	O
 are	O
 rsim	O
 and	O
 mica	O
 .	O
+NULL
 the	O
 crf	B-Algo
 model	O
@@ -23214,6 +23794,7 @@ only	O
 historical	O
 information	O
 .	O
+NULL
 in	O
 the	O
 original	O
@@ -23241,6 +23822,7 @@ parameter	O
 is	O
 50	O
 .	O
+NULL
 hmm	B-Algo
 is	O
 a	O
@@ -23255,6 +23837,7 @@ different	O
 domains	O
 ,	O
 e.g.	O
+NULL
 in	O
 terms	O
 of	O
@@ -23272,6 +23855,7 @@ our	O
 nehalem	O
 machine	O
 .	O
+NULL
 mrf	B-Algo
 is	O
 used	O
@@ -23287,6 +23871,7 @@ their	O
 dynamic	O
 model	O
 .	O
+NULL
 in	O
 traditional	O
 topic	O
@@ -23347,6 +23932,7 @@ shared	O
 language	O
 model	O
 .	O
+NULL
 2	O
 challenges	O
 while	O
@@ -23412,6 +23998,7 @@ and	O
 associated	O
 constraints	O
 .	O
+NULL
 to	O
 incorporate	O
 lda	B-Algo
@@ -23435,6 +24022,7 @@ tags	O
 p(z|b	O
 )	O
 .	O
+NULL
 the	O
 mgs	O
 system	O
@@ -23460,6 +24048,7 @@ node	O
 partitioning	O
 schemes	O
 .	O
+NULL
 2007	O
 )	O
 compares	O
@@ -23482,6 +24071,7 @@ recommend	O
 personalized	O
 tags	O
 .	O
+NULL
 a	O
 fast	O
 fourier	O
@@ -23495,6 +24085,7 @@ on	O
 each	O
 window	O
 .	O
+NULL
 arbitration	O
 0	O
 e	O
@@ -23576,6 +24167,7 @@ h3	O
 )	O
 buses	O
 .	O
+NULL
 adaptive	O
 and	O
 lazy	O
@@ -23684,6 +24276,7 @@ with	O
 4	O
 processors	O
 .	O
+NULL
 as	O
 shown	O
 in	O
@@ -23715,6 +24308,7 @@ as	O
 ∆zmax	O
 increases	O
 .	O
+NULL
 10	O
 	O
 table	O
@@ -23732,6 +24326,7 @@ trained	O
 on	O
 h5train02	O
 .	O
+NULL
 idfj	O
 is	O
 the	O
@@ -23762,6 +24357,7 @@ occurs	O
 in	O
 nj	O
 .	O
+NULL
 section	O
 3	O
 introduces	O
@@ -23775,6 +24371,7 @@ on	O
 a	O
 tdnn	B-Algo
 .	O
+NULL
 we	O
 choose	O
 four	O
@@ -23818,6 +24415,7 @@ and	O
 high	O
 efficiency	O
 .	O
+NULL
 on	O
 acoustics	O
 ,	O
@@ -23831,6 +24429,7 @@ icassp	O
 ,	O
 vol	O
 .	O
+NULL
 the	O
 paper	O
 is	O
@@ -23877,6 +24476,7 @@ of	O
 the	O
 network	O
 .	O
+NULL
 in	O
 our	O
 bow	B-Algo
@@ -23913,6 +24513,7 @@ hessian	O
 affine	O
 respectively	O
 .	O
+NULL
 on	O
 the	O
 other	O
@@ -23932,6 +24533,7 @@ tasks	O
 18	O
 ]	O
 .	O
+NULL
 in	O
 this	O
 conditions	O
@@ -23962,6 +24564,7 @@ results	O
 relaxation	O
 obtains	O
 .	O
+NULL
 the	O
 best	O
 value	O
@@ -23997,6 +24600,7 @@ in	O
 figure	O
 7	O
 .	O
+NULL
 λ	O
 page	O
 5	O
@@ -24099,6 +24703,7 @@ scores	O
 map40	O
 )	O
 .	O
+NULL
 the	O
 plsa	B-Algo
 -	O
@@ -24120,6 +24725,7 @@ representations	O
 are	O
 used	O
 .	O
+NULL
 for	O
 example	O
 ,	O
@@ -24169,6 +24775,7 @@ complete	O
 the	O
 task	O
 .	O
+NULL
 in	O
 section	O
 2	O
@@ -24190,6 +24797,7 @@ the	O
 cluster	O
 model	O
 .	O
+NULL
 we	O
 used	O
 29	O
@@ -24209,6 +24817,7 @@ trained	O
 svm	B-Algo
 classifiers	I-Algo
 .	O
+NULL
 anatomy	O
 of	O
 a	O
@@ -24535,10 +25144,12 @@ the	O
 public	O
 domain	O
 ?	O
+NULL
 b	O
 backchannel	O
 yeah	O
 .	O
+NULL
 a	O
 feature	O
 vector	O
@@ -24575,6 +25186,7 @@ svm	B-Algo
 based	O
 classifier	B-Algo
 .	O
+NULL
 in	O
 section	O
 4	O
@@ -24591,6 +25203,7 @@ of	O
 sift	B-Algo
 features	O
 .	O
+NULL
 j.	O
 paul	O
 stephens	O
@@ -25181,6 +25794,7 @@ in	O
 west	O
 africa	O
 .	O
+NULL
 our	O
 results	O
 show	O
@@ -25216,6 +25830,7 @@ to	O
 ncbi	O
 blast	O
 .	O
+NULL
 then	O
 we	O
 divide	O
@@ -25265,6 +25880,7 @@ sequence	O
 )	O
 information	O
 .	O
+NULL
 this	O
 can	O
 be	O
@@ -25278,6 +25894,7 @@ the	O
 pagerank	B-Algo
 instance	O
 .	O
+NULL
 this	O
 hmm	B-Algo
 effectively	O
@@ -25304,6 +25921,7 @@ action	O
 sequence	O
 results	O
 .	O
+NULL
 the	O
 matrix	O
 �	O
@@ -25386,6 +26004,7 @@ space	O
 of	O
 �	O
 .	O
+NULL
 paris	O
 ,	O
 france	O
@@ -25447,6 +26066,7 @@ for	O
 templated	O
 queries	O
 .	O
+NULL
 table	O
 2	O
 shows	O
@@ -25507,6 +26127,7 @@ in	O
 the	O
 combination	O
 .	O
+NULL
 in	O
 general	O
 ,	O
@@ -25535,6 +26156,7 @@ and	O
 different	O
 quantization	O
 .	O
+NULL
 the	O
 svm	B-Algo
 -	O
@@ -25552,6 +26174,7 @@ spamassasssin	O
 botnet	O
 plugin	O
 .	O
+NULL
 we	O
 propose	O
 an	O
@@ -25574,6 +26197,7 @@ several	O
 trec	B-Algo
 collections	O
 .	O
+NULL
 cho	O
 /	O
 neurocomputing	O
@@ -25614,6 +26238,7 @@ combined	O
 classifiers	B-Algo
 fig	O
 .	O
+NULL
 the	O
 tfidf	B-Algo
 classifier	B-Algo
@@ -25636,6 +26261,7 @@ space	O
 retrieval	O
 model	O
 .	O
+NULL
 :	O
 multicast	O
 capacity	O
@@ -25651,6 +26277,7 @@ model	O
 1147	O
 ii	O
 .	O
+NULL
 it	O
 performs	O
 transforms	O
@@ -25699,6 +26326,7 @@ fpgas	O
 6	O
 ]	O
 .	O
+NULL
 francesc	O
 junyent	O
 ,	O
@@ -26692,6 +27320,7 @@ li	O
 ,	O
 1	O
 .	O
+NULL
 however	O
 ,	O
 for	O
@@ -26721,6 +27350,7 @@ to	O
 the	O
 latter	O
 .	O
+NULL
 this	O
 paper	O
 uses	O
@@ -26766,6 +27396,7 @@ criteria	O
 for	O
 scalability	O
 .	O
+NULL
 bow	B-Algo
 categorization	O
 results	O
@@ -26784,6 +27415,7 @@ berg	O
 et	O
 al	O
 .	O
+NULL
 in	O
 appradar	O
 ,	O
@@ -26816,6 +27448,7 @@ organization	O
 's	O
 specification	O
 .	O
+NULL
 in	O
 [	O
 4,5	O
@@ -26878,6 +27511,7 @@ trained	O
 baseline	O
 system	O
 .	O
+NULL
 a	O
 weighting	O
 based	O
@@ -26896,6 +27530,7 @@ for	O
 svm	B-Algo
 training	B-Algo
 .	O
+NULL
 using	O
 the	O
 intermediate	O
@@ -26927,6 +27562,7 @@ a	O
 separate	O
 step	O
 .	O
+NULL
 the	O
 effectiveness	O
 of	O
@@ -26942,6 +27578,7 @@ of	O
 model	O
 parameters	O
 .	O
+NULL
 for	O
 ev	O
 ,	O
@@ -26966,6 +27603,7 @@ was	O
 used	O
 instead	O
 .	O
+NULL
 this	O
 work	O
 suggests	O
@@ -27005,6 +27643,7 @@ systems	O
 whenever	O
 possible	O
 .	O
+NULL
 3	O
 3	O
 standard	O
@@ -27034,6 +27673,7 @@ and	O
 measurement	O
 models	O
 .	O
+NULL
 in	O
 the	O
 case	O
@@ -27055,6 +27695,7 @@ cross	O
 validation	O
 fold	O
 .	O
+NULL
 one	O
 of	O
 the	O
@@ -27118,6 +27759,7 @@ at	O
 least	O
 once	O
 .	O
+NULL
 thus	O
 the	O
 results	O
@@ -27131,6 +27773,7 @@ as	O
 a	O
 baseline	O
 .	O
+NULL
 anna	O
 -	O
 error	O
@@ -27148,6 +27791,7 @@ a	O
 failed	O
 check	O
 .	O
+NULL
 data	O
 collection	O
 to	O
@@ -27202,6 +27846,7 @@ fox	O
 news	O
 domain	O
 .	O
+NULL
 d.	O
 time	O
 complexity	O
@@ -27228,6 +27873,7 @@ similar	O
 decoding	O
 time	O
 .	O
+NULL
 for	O
 each	O
 svm	B-Algo
@@ -27248,6 +27894,7 @@ the	O
 same	O
 fold	O
 .	O
+NULL
 scheduler	O
 characteristics	O
 to	O
@@ -27275,6 +27922,7 @@ and	O
 smart	O
 schedulers	O
 .	O
+NULL
 in	O
 this	O
 experiment	O
@@ -27310,6 +27958,7 @@ features	O
 are	O
 selected	O
 .	O
+NULL
 nn	O
 and	O
 svm	B-Algo
@@ -27325,6 +27974,7 @@ other	O
 three	O
 methods	O
 .	O
+NULL
 while	O
 this	O
 previous	O
@@ -27368,6 +28018,7 @@ than	O
 99	O
 %	O
 .	O
+NULL
 the	O
 most	O
 common	O
@@ -27383,6 +28034,7 @@ k	O
 nearest	O
 neighbors	O
 .	O
+NULL
 as	O
 such	O
 we	O
@@ -27434,12 +28086,14 @@ equally	O
 distributed	O
 )	O
 .	O
+NULL
 icassp	O
 ,	O
 2007	O
 ,	O
 pp	O
 .	O
+NULL
 same	O
 as	O
 kirchhoff	O
@@ -27464,6 +28118,7 @@ af	O
 -	O
 mlps	B-Algo
 .	O
+NULL
 the	O
 hmm	B-Algo
 works	O
@@ -27496,6 +28151,7 @@ stream	O
 fig.3	O
 )	O
 .	O
+NULL
 for	O
 instance	O
 ,	O
@@ -27575,6 +28231,7 @@ by	O
 a	O
 document	O
 .	O
+NULL
 recently	O
 there	O
 has	O
@@ -27595,6 +28252,7 @@ methods	O
 24	O
 ]	O
 .	O
+NULL
 as	O
 we	O
 discuss	O
@@ -27612,6 +28270,7 @@ our	O
 svm	B-Algo
 approach	O
 .	O
+NULL
 prec.10	O
 recp.rank	O
 recall	O
@@ -27647,6 +28306,7 @@ wt10g.451	O
 550	O
 av.prec	O
 .	O
+NULL
 the	O
 proof	O
 of	O
@@ -27663,6 +28323,7 @@ an	O
 amortized	O
 analysis	O
 .	O
+NULL
 while	O
 they	O
 show	O
@@ -27691,6 +28352,7 @@ wavelength	O
 cluster	O
 )	O
 .	O
+NULL
 several	O
 approaches	O
 to	O
@@ -27728,6 +28390,7 @@ linked	O
 by	O
 them	O
 .	O
+NULL
 we	O
 set	O
 λ	O
@@ -27741,6 +28404,7 @@ throughout	O
 the	O
 experiments	O
 .	O
+NULL
 the	O
 object	O
 crf	B-Algo
@@ -27778,6 +28442,7 @@ aspect	O
 1	O
 )	O
 .	O
+NULL
 crf	B-Algo
 (	O
 baseline	O
@@ -27844,6 +28509,7 @@ aso	O
 semi	O
 ’	O
 .	O
+NULL
 ﻿university	O
 of	O
 castilla	O
@@ -27950,6 +28616,7 @@ trees	O
 traditional	O
 view	O
 .	O
+NULL
 3.1	O
 bilingual	O
 lda	B-Algo
@@ -28003,6 +28670,7 @@ moens	O
 2009	O
 )	O
 .	O
+NULL
 learned	O
 value	O
 of	O
@@ -28030,6 +28698,7 @@ on	O
 difficult	O
 cases	O
 .	O
+NULL
 to	O
 provide	O
 a	O
@@ -28057,6 +28726,7 @@ features	O
 ,	O
 respectively	O
 .	O
+NULL
 for	O
 training	B-Algo
 glyph	O
@@ -28084,6 +28754,7 @@ presentation	O
 form	O
 transcripts	O
 .	O
+NULL
 for	O
 instance	O
 ,	O
@@ -28116,6 +28787,7 @@ the	O
 original	O
 proposal	O
 .	O
+NULL
 [	O
 12	O
 ,	O
@@ -28132,6 +28804,7 @@ large	O
 scale	O
 problems	O
 .	O
+NULL
 in	O
 the	O
 following	O
@@ -28165,6 +28838,7 @@ svm	B-Algo
 based	O
 classifier	B-Algo
 .	O
+NULL
 the	O
 experiments	O
 show	O
@@ -28220,6 +28894,7 @@ chapelle	O
 2004	O
 )	O
 .	O
+NULL
 [	O
 19	O
 ]	O
@@ -28240,6 +28915,7 @@ of	O
 each	O
 document	O
 .	O
+NULL
 in	O
 principle	O
 ,	O
@@ -28269,6 +28945,7 @@ networks	O
 6	O
 #	O
 .	O
+NULL
 all	O
 code	O
 was	O
@@ -28284,6 +28961,7 @@ as	O
 ncbi	O
 blast	O
 .	O
+NULL
 on	O
 the	O
 other	O
@@ -28302,6 +28980,7 @@ have	O
 limited	O
 breadth	O
 .	O
+NULL
 lastly	O
 ,	O
 work	O
@@ -28370,6 +29049,7 @@ learning	O
 models	O
 behave	O
 .	O
+NULL
 mlp	B-Algo
 labelled	O
 prec	O
@@ -28379,6 +29059,7 @@ ratio	O
 of	O
 avg	B-Algo
 .	O
+NULL
 based	O
 on	O
 these	O
@@ -28401,6 +29082,7 @@ class	O
 svm	B-Algo
 classifier	B-Algo
 .	O
+NULL
 an	O
 attacker	O
 can	O
@@ -28423,6 +29105,7 @@ dc	O
 dct	B-Algo
 coefficient	O
 .	O
+NULL
 question	O
 classification	B-Algo
 question	O
@@ -28436,12 +29119,14 @@ several	O
 semantic	O
 categories	O
 .	O
+NULL
 pagerank	B-Algo
 [	O
 page	O
 et	O
 al	O
 .	O
+NULL
 as	O
 a	O
 generalization	O
@@ -28488,6 +29173,7 @@ based	O
 ranking	O
 schemes	O
 .	O
+NULL
 similarly	O
 ,	O
 the	O
@@ -28508,6 +29194,7 @@ the	O
 wpt	O
 ,	O
 i.e.	O
+NULL
 icars	O
 7	O
 extends	O
@@ -28520,6 +29207,7 @@ the	O
 image	O
 domain	O
 .	O
+NULL
 second	O
 ,	O
 and	O
@@ -28541,6 +29229,7 @@ k	O
 -	O
 svmeans	O
 .	O
+NULL
 outliers	O
 were	O
 rejected	O
@@ -28574,6 +29263,7 @@ three	O
 standard	O
 deviations	O
 .	O
+NULL
 fixed	O
 the	O
 number	O
@@ -28646,6 +29336,7 @@ movie	O
 m	O
 on	O
 i.	O
+NULL
 wiesmann	O
 and	O
 schiper	O
@@ -28662,6 +29353,7 @@ order	O
 broadcast	O
 565	O
 .	O
+NULL
 [	O
 19	O
 ]	O
@@ -28697,6 +29389,7 @@ intranet	O
 data	O
 set	O
 .	O
+NULL
 we	O
 implemented	O
 three	O
@@ -28720,6 +29413,7 @@ only	O
 28,826	O
 gates	O
 .	O
+NULL
 131	O
 	O
 system	O
@@ -28759,6 +29453,7 @@ first	O
 5	O
 sentences	O
 .	O
+NULL
 lparx	O
 is	O
 a	O
@@ -28784,6 +29479,7 @@ distributions	O
 9	O
 ]	O
 .	O
+NULL
 then	O
 ,	O
 for	O
@@ -28883,6 +29579,7 @@ o	O
 8	O
 ]	O
 .	O
+NULL
 algorithm	O
 average	B-Algo
 classification	B-Algo
@@ -28996,6 +29693,7 @@ the	O
 icet	O
 algorithm	O
 ?	O
+NULL
 ides	O
 (	O
 internet	O
@@ -29040,6 +29738,7 @@ for	O
 each	O
 node	O
 .	O
+NULL
 the	O
 ucpop	O
 problems	O
@@ -29058,6 +29757,7 @@ get	O
 paid	O
 domains	O
 .	O
+NULL
 relative	O
 search	O
 time	O
@@ -29138,6 +29838,7 @@ knn	B-Algo
 queries	O
 fig.14	O
 .	O
+NULL
 of	O
 tech	O
 .	O
@@ -30496,6 +31197,7 @@ states	O
 ;	O
 m.c	O
 .	O
+NULL
 svm	B-Algo
 uses	O
 about	O
@@ -30505,6 +31207,7 @@ without	O
 feature	O
 reduction	O
 .	O
+NULL
 this	O
 is	O
 then	O
@@ -30518,6 +31221,7 @@ a	O
 svm	B-Algo
 classifier	B-Algo
 .	O
+NULL
 in	O
 contrast	O
 ,	O
@@ -30564,6 +31268,7 @@ reach	O
 the	O
 goal	O
 .	O
+NULL
 the	O
 first	O
 experiment	O
@@ -30671,6 +31376,7 @@ fication	O
 is	O
 used	O
 .	O
+NULL
 as	O
 the	O
 plots	O
@@ -30702,6 +31408,7 @@ achieve	O
 comparable	O
 accuracy	O
 .	O
+NULL
 the	O
 training	B-Algo
 and	O
@@ -30715,6 +31422,7 @@ normalized	O
 tfidf	B-Algo
 vectors	O
 .	O
+NULL
 this	O
 seems	O
 to	O
@@ -30740,6 +31448,7 @@ and	O
 hmm	B-Algo
 topology	O
 .	O
+NULL
 2	O
 related	O
 work	O
@@ -30797,6 +31506,7 @@ view	O
 9	O
 ]	O
 .	O
+NULL
 2	O
 1	O
 ,	O
@@ -30843,6 +31553,7 @@ images	O
 (	O
 fig	O
 .	O
+NULL
 the	O
 correlation	O
 article	O
@@ -30959,6 +31670,7 @@ correlation	O
 coefficients	O
 k.-j	O
 .	O
+NULL
 this	O
 paper	O
 further	O
@@ -30997,6 +31709,7 @@ pca	B-Algo
 is	O
 performed	O
 .	O
+NULL
 as	O
 reported	O
 in	O
@@ -31044,6 +31757,7 @@ for	O
 macroaveraged	O
 effectiveness	O
 .	O
+NULL
 3	O
 we	O
 also	O
@@ -31078,6 +31792,7 @@ vector	O
 ti+cos	O
 )	O
 .	O
+NULL
 the	O
 first	O
 three	O
@@ -31092,6 +31807,7 @@ factor	O
 of	O
 0.45	O
 .	O
+NULL
 of	O
 information	O
 engineering	O
@@ -31515,6 +32231,7 @@ krantz	O
 johan	O
 e.s	O
 .	O
+NULL
 2	O
 :	O
 define	O
@@ -31619,6 +32336,7 @@ l	O
 -	O
 estimators	O
 .	O
+NULL
 j48	B-Algo
 ,	O
 neural	O
@@ -31633,6 +32351,7 @@ naive	O
 1nn	O
 approach	O
 .	O
+NULL
 the	O
 k	O
 -	O
@@ -31674,6 +32393,7 @@ k	O
 5	O
 )	O
 .	O
+NULL
 table	O
 6	O
 shows	O
@@ -31746,6 +32466,7 @@ as	O
 our	O
 method	O
 .	O
+NULL
 the	O
 idct	O
 vca	O
@@ -31766,6 +32487,7 @@ in	O
 the	O
 computation	O
 .	O
+NULL
 1	O
 http://www.music-ir.org/mirexwiki/	O
 2	O
@@ -31815,6 +32537,7 @@ similarity	O
 query	O
 processing	O
 .	O
+NULL
 we	O
 performed	O
 these	O
@@ -31837,6 +32560,7 @@ the	O
 smart	O
 scheduler	O
 .	O
+NULL
 dialogue	O
 move	O
 )	O
@@ -31869,6 +32593,7 @@ by	O
 65.9	O
 %	O
 .	O
+NULL
 2.2	O
 cache	O
 the	O
@@ -31915,6 +32640,7 @@ free	O
 cache	O
 space	O
 .	O
+NULL
 data	O
 development	O
 test	O
@@ -32101,6 +32827,7 @@ ratio	O
 of	O
 u.app	O
 .	O
+NULL
 note	O
 however	O
 ,	O
@@ -32124,6 +32851,7 @@ regression	B-Algo
 sentence	O
 reordering	O
 .	O
+NULL
 note	O
 that	O
 since	O
@@ -32152,6 +32880,7 @@ numbers	O
 of	O
 parameters	O
 .	O
+NULL
 background	O
 :	O
 interactive	O
@@ -32174,6 +32903,7 @@ model	O
 hmm	B-Algo
 )	O
 .	O
+NULL
 the	O
 numerator	O
 of	O
@@ -32200,6 +32930,7 @@ close	O
 to	O
 one	O
 .	O
+NULL
 research	O
 employing	O
 probabilistic	O
@@ -32239,6 +32970,7 @@ work	O
 206	O
 ]	O
 .	O
+NULL
 these	O
 results	O
 agree	O
@@ -32301,6 +33033,7 @@ performance	O
 17	O
 ]	O
 .	O
+NULL
 brewer	O
 &	O
 plott	O
@@ -32320,6 +33053,7 @@ distributed	O
 train	O
 scheduling	O
 .	O
+NULL
 where	O
  	O
 #	O
@@ -32429,6 +33163,7 @@ the	O
 arma	B-Algo
 filter	O
 .	O
+NULL
 statistical	O
 tests	O
 show	O
@@ -32649,6 +33384,7 @@ employed	O
 by	O
 nodeinfo	O
 .	O
+NULL
 the	O
 vlsi	O
 architecture	O
@@ -32662,6 +33398,7 @@ in	O
 section	O
 4	O
 .	O
+NULL
 our	O
 text	O
 classifier	B-Algo
@@ -32673,6 +33410,7 @@ each	O
 individual	O
 feature	O
 .	O
+NULL
 the	O
 distinctive	O
 advantage	O
@@ -32697,6 +33435,7 @@ manning	O
 et	O
 al	O
 .	O
+NULL
 it	O
 also	O
 indicates	O
@@ -32736,6 +33475,7 @@ the	O
 other	O
 models	O
 .	O
+NULL
 we	O
 use	O
 singular	O
@@ -32781,6 +33521,7 @@ the	O
 linked	O
 document	O
 .	O
+NULL
 naive	O
 bayesian	O
 classification	B-Algo
@@ -32809,12 +33550,14 @@ kononenko	O
 1995	O
 )	O
 .	O
+NULL
 (	O
 communication	O
 )	O
  	O
 x	O
 !	O
+NULL
 in	O
 stc	O
 and	O
@@ -32834,6 +33577,7 @@ can	O
 be	O
 ignored	O
 .	O
+NULL
 after	O
 hlda	B-Algo
 ,	O
@@ -32859,6 +33603,7 @@ mlps	B-Algo
 was	O
 appended	O
 .	O
+NULL
 (	O
 2003	O
 )	O
@@ -32871,6 +33616,7 @@ li	O
 et	O
 al	O
 .	O
+NULL
 like	O
 glram	O
 ,	O
@@ -32882,6 +33628,7 @@ in	O
 matrix	O
 representation	O
 .	O
+NULL
 we	O
 can	O
 see	O
@@ -32917,6 +33664,7 @@ a	O
 large	O
 value	O
 .	O
+NULL
 table	O
 i	O
 comparison	O
@@ -32930,6 +33678,7 @@ against	O
 several	O
 baselines	O
 .	O
+NULL
 (	O
 using	O
 the	O
@@ -32980,6 +33729,7 @@ and	O
 %	O
 .	O
 )	O
+NULL
 svr	B-Algo
 training	B-Algo
 only	O
@@ -32997,6 +33747,7 @@ template	O
 are	O
 trained	O
 .	O
+NULL
 -	O
 67	O
 -	O
@@ -33319,6 +34070,7 @@ test	O
 table	O
 2	O
 .	O
+NULL
 initialising	O
 the	O
 mlps	B-Algo
@@ -33339,6 +34091,7 @@ performance	O
 18	O
 #	O
 .	O
+NULL
 the	O
 distribution	O
 version	O
@@ -33360,6 +34113,7 @@ boswell	O
 1991	O
 ]	O
 .	O
+NULL
 aside	O
 from	O
 the	O
@@ -33385,6 +34139,7 @@ of	O
 the	O
 ekf	B-Algo
 .	O
+NULL
 as	O
 discussed	O
 above	O
@@ -33406,6 +34161,7 @@ an	O
 explicit	O
 representation	O
 .	O
+NULL
 again	O
 ,	O
 using	O
@@ -33448,6 +34204,7 @@ snr	O
 table	O
 1	O
 .	O
+NULL
 in	O
 more	O
 recent	O
@@ -33476,6 +34233,7 @@ sentence	O
 sentiment	O
 classification	B-Algo
 .	O
+NULL
 also	O
 included	O
 was	O
@@ -33492,6 +34250,7 @@ mutation	O
 operators	O
 ,	O
 i.e.	O
+NULL
 2	O
 related	O
 work	O
@@ -33522,6 +34281,7 @@ min[7	O
 ,	O
 etc	O
 .	O
+NULL
 the	O
 xmc	O
 verification	O
@@ -33532,6 +34292,7 @@ ramakrishna	O
 et	O
 al	O
 .	O
+NULL
 feh	O
 prefix	O
 indices	O
@@ -33563,9 +34324,11 @@ to	O
 60	O
 %	O
 .	O
+NULL
 21st	O
 icatpn	O
 .	O
+NULL
 the	O
 programmer	O
 has	O
@@ -33597,6 +34360,7 @@ rates	O
 ,	O
 etc	O
 .	O
+NULL
 4	O
 related	O
 work	O
@@ -33635,6 +34399,7 @@ sas	O
 15	O
 ]	O
 .	O
+NULL
 1	O
 the	O
 techniques	O
@@ -33672,6 +34437,7 @@ phrase	O
 tables	O
 online	O
 .	O
+NULL
 the	O
 instructions	O
 distribution	O
@@ -33713,6 +34479,7 @@ sw	O
 vmx256	O
 )	O
 .	O
+NULL
 based	O
 on	O
 the	O
@@ -33751,6 +34518,7 @@ follows	O
 ,	O
 fig	O
 .	O
+NULL
 we	O
 present	O
 these	O
@@ -33809,6 +34577,7 @@ presentation	O
 if	O
 desired	O
 .	O
+NULL
 algorithm	O
 pct	O
 gecko	O
@@ -33868,6 +34637,7 @@ as	O
 v32	O
 t	O
 .	O
+NULL
 trace	O
 collection	O
 and	O
@@ -33891,6 +34661,7 @@ mms	O
 5	O
 ]	O
 .	O
+NULL
 the	O
 hierarchical	O
 system	O
@@ -33919,6 +34690,7 @@ a	O
 256-dimensional	O
 vector	O
 .	O
+NULL
 adaboost	B-Algo
 learns	O
 a	O
@@ -33949,6 +34721,7 @@ of	O
 higher	O
 accuracy	O
 .	O
+NULL
 svdcandecomposeanyreal	O
 -	O
 valuedmatrix	O
@@ -33972,6 +34745,7 @@ valuesin	O
 σarethesingularvalues	O
 si	O
 .	O
+NULL
 for	O
 maxent	B-Algo
 reranking	O
@@ -33994,6 +34768,7 @@ johnson	O
 2005	O
 )	O
 .	O
+NULL
 because	O
 ir	O
 research	O
@@ -34028,11 +34803,13 @@ phrase	O
 low	O
 idf	B-Algo
 .	O
+NULL
 11	O
 parallel	O
 loop	O
 cyclic_reduction	O
 .	O
+NULL
 comparison	O
 of	O
 the	O
@@ -34044,6 +34821,7 @@ svm	B-Algo
 -	O
 pairwise	O
 .	O
+NULL
 our	O
 starting	O
 point	O
@@ -34094,6 +34872,7 @@ for	O
 online	O
 forums	O
 .	O
+NULL
 the	O
 incorporation	O
 of	O
@@ -34170,6 +34949,7 @@ etc	O
 .	O
 )	O
 .	O
+NULL
 classifier	B-Algo
 recall	O
 precision	O
@@ -34223,6 +35003,7 @@ of	O
 other	O
 methods	O
 .	O
+NULL
 [	O
 4	O
 ]	O
@@ -34242,6 +35023,7 @@ for	O
 multipleobject	O
 tracking	O
 .	O
+NULL
 with	O
 the	O
 kernel	O
@@ -34264,6 +35046,7 @@ affect	O
 recognition	O
 problem	O
 .	O
+NULL
 in	O
 [	O
 22	O
@@ -34291,6 +35074,7 @@ of	O
 text	O
 categorization	O
 .	O
+NULL
 we	O
 collect	O
 the	O
@@ -34344,6 +35128,7 @@ tumoral	O
 images	O
 detection	O
 .	O
+NULL
 while	O
 we	O
 are	O
@@ -34380,6 +35165,7 @@ birch	B-Algo
 35	O
 ]	O
 .	O
+NULL
 it	O
 should	O
 be	O
@@ -34422,6 +35208,7 @@ other	O
 emotional	O
 eps	O
 .	O
+NULL
 the	O
 algorithms	O
 in	O
@@ -34463,6 +35250,7 @@ the	O
 original	O
 graph	O
 .	O
+NULL
 the	O
 lda	B-Algo
 model	O
@@ -34503,6 +35291,7 @@ using	O
 this	O
 distribution	O
 .	O
+NULL
 the	O
 ib2	B-Algo
 algorithm	O
@@ -34546,6 +35335,7 @@ always	O
 added	O
 )	O
 .	O
+NULL
 5	O
 discussion	O
 we	O
@@ -34576,6 +35366,7 @@ svm	B-Algo
 classification	B-Algo
 algorithm	O
 .	O
+NULL
 (	O
 2006	O
 )	O
@@ -34598,6 +35389,7 @@ nd	O
 baseline	O
 system	O
 .	O
+NULL
 [	O
 2	O
 ]	O
@@ -34617,6 +35409,7 @@ over	O
 moving	O
 objects	O
 .	O
+NULL
 mixture	O
 and	O
 frame	O
@@ -34645,6 +35438,7 @@ hansen	O
 2007	O
 )	O
 .	O
+NULL
 all	O
 pohmms	O
 were	O
@@ -34666,6 +35460,7 @@ using	O
 cd(1	O
 )	O
 .	O
+NULL
 figure	O
 3	O
 shows	O
@@ -34687,6 +35482,7 @@ the	O
 learning	O
 process	O
 .	O
+NULL
 6	O
 conclusions	O
 5.2	O
@@ -34728,6 +35524,7 @@ list	O
 nostop	O
 )	O
 .	O
+NULL
 this	O
 may	O
 be	O
@@ -34756,6 +35553,7 @@ frequency	O
 normalisation	O
 component	O
 .	O
+NULL
 the	O
 colored	O
 circles	O
@@ -34794,6 +35592,7 @@ with	O
 reasonable	O
 confidence	O
 .	O
+NULL
 in	O
 particular	O
 the	O
@@ -34822,6 +35621,7 @@ and	O
 precision	O
 results	O
 .	O
+NULL
 gaps	O
 between	O
 base	O
@@ -34845,6 +35645,7 @@ latency	O
 memory	O
 operations	O
 .	O
+NULL
 fransson	O
 ,	O
 johan	O
@@ -35332,6 +36133,7 @@ from	O
 modis	O
 christopher	O
 o.	O
+NULL
 previously	O
 ,	O
 the	O
@@ -35385,6 +36187,7 @@ c	O
 2010	O
 ieee	O
 .	O
+NULL
 for	O
 each	O
 image	O
@@ -35407,6 +36210,7 @@ local	O
 invariant	O
 features	O
 .	O
+NULL
 this	O
 section	O
 covers	O
@@ -35447,6 +36251,7 @@ algorithm	O
 and	O
 psfga	O
 .	O
+NULL
 table	O
 2	O
 two	O
@@ -35522,6 +36327,7 @@ is	O
 less	O
 pronounced	O
 .	O
+NULL
 some	O
 recent	O
 work	O
@@ -35560,6 +36366,7 @@ resnik	O
 2010	O
 )	O
 .	O
+NULL
 the	O
 performance	O
 losses	O
@@ -35581,6 +36388,7 @@ on	O
 	O
 fig	O
 .	O
+NULL
 the	O
 accuracy	O
 is	O
@@ -35605,6 +36413,7 @@ mix	O
 #	O
 param	O
 .	O
+NULL
 2003	O
 ;	O
 0:1–32	O
@@ -35634,6 +36443,7 @@ canfora	O
 et	O
 al	O
 .	O
+NULL
 the	O
 second	O
 interleaved	O
@@ -35672,6 +36482,7 @@ the	O
 original	O
 features	O
 .	O
+NULL
 next	O
 ,	O
 singular	O
@@ -35692,6 +36503,7 @@ number	O
 of	O
 columns	O
 .	O
+NULL
 overall	O
 performance	O
 comparison	O
@@ -35757,6 +36569,7 @@ p	O
 <	O
 0.01	O
 .	O
+NULL
 system	O
 comparison	O
 :	O
@@ -35845,6 +36658,7 @@ e	O
 table	O
 2	O
 .	O
+NULL
 the	O
 outline	O
 of	O
@@ -35880,6 +36694,7 @@ decomposition	O
 ✲	O
 fig	O
 .	O
+NULL
 kelp	O
 extends	O
 lparx	O
@@ -35905,6 +36720,7 @@ smps	O
 6	O
 ]	O
 .	O
+NULL
 also	O
 the	O
 performance	O
@@ -35926,6 +36742,7 @@ of	O
 gmm	O
 classification	B-Algo
 .	O
+NULL
 matrix	O
 ,	O
 fft	O
@@ -35950,6 +36767,7 @@ on	O
 the	O
 right	O
 .	O
+NULL
 interestingly	O
 ,	O
 svm	B-Algo
@@ -35971,6 +36789,7 @@ are	O
 nonsupervised	O
 methods	O
 .	O
+NULL
 we	O
 show	O
 how	O
@@ -35996,6 +36815,7 @@ level	O
 crf	B-Algo
 model	O
 .	O
+NULL
 on	O
 the	O
 other	O
@@ -36027,6 +36847,7 @@ from	O
 the	O
 data	O
 .	O
+NULL
 548	O
 ieee	O
 journal	O
@@ -36038,6 +36859,7 @@ communications	O
 ,	O
 vol	O
 .	O
+NULL
 from	O
 this	O
 point	O
@@ -36094,6 +36916,7 @@ music	O
 1200	O
 fig	O
 .	O
+NULL
 finally	O
 ,	O
 in	O
@@ -36128,6 +36951,7 @@ example	O
 14,16,17	O
 ]	O
 .	O
+NULL
 it	O
 can	O
 be	O
@@ -36139,6 +36963,7 @@ hmm	B-Algo
 edhmm	O
 corr	O
 .	O
+NULL
 instead	O
 of	O
 gmms	O
@@ -36154,6 +36979,7 @@ the	O
 keyword	O
 signals	O
 .	O
+NULL
 in	O
 morphex	O
 and	O
@@ -36179,6 +37005,7 @@ the	O
 oov	O
 word	O
 .	O
+NULL
 highlight	O
 classification	B-Algo
 performance	O
@@ -36190,6 +37017,7 @@ videos	O
 table	O
 6.15	O
 .	O
+NULL
 furthermore	O
 ,	O
 we	O
@@ -36230,6 +37058,7 @@ accuracy	O
 and	O
 consistency	O
 .	O
+NULL
 then	O
 7	O
 :	O
@@ -36269,6 +37098,7 @@ see	O
 5.1.2	O
 .	O
 )	O
+NULL
 3	O
 )	O
 the	O
@@ -36282,6 +37112,7 @@ decomposed	O
 by	O
 2ddwt	O
 .	O
+NULL
 however	O
 ,	O
 dam	O
@@ -36313,6 +37144,7 @@ the	O
 target	O
 domain	O
 .	O
+NULL
 results	O
 to	O
 obtain	O
@@ -36365,6 +37197,7 @@ cmp	O
 configuration	O
 parameters	O
 .	O
+NULL
 overall	O
 ,	O
 lex	O
@@ -36390,6 +37223,7 @@ at	O
 0.42	O
 )	O
 .	O
+NULL
 readers	O
 without	O
 prior	O
@@ -36434,6 +37268,7 @@ dct	B-Algo
 based	O
 decoders	O
 .	O
+NULL
 for	O
 this	O
 case	O
@@ -36450,6 +37285,7 @@ o(n	O
 n	O
 )	O
 .	O
+NULL
 2009	O
 ;	O
 39:1003–1024	O
@@ -36486,6 +37322,7 @@ of	O
 the	O
 neighbors	O
 .	O
+NULL
 hmms	B-Algo
 can	O
 model	O
@@ -36530,6 +37367,7 @@ does	O
 not	O
 capture	O
 .	O
+NULL
 acknowledgments	O
 we	O
 are	O
@@ -36546,6 +37384,7 @@ for	O
 their	O
 feedback	O
 .	O
+NULL
 indeed	O
 ,	O
 we	O
@@ -36566,6 +37405,7 @@ robust	O
 word	O
 vectors	O
 .	O
+NULL
 the	O
 dt	O
 model	O
@@ -36597,6 +37437,7 @@ evolve	O
 over	O
 time	O
 .	O
+NULL
 content	O
 -	O
 aware	O
@@ -36605,6 +37446,7 @@ q	O
 dct	B-Algo
 −1	O
 .	O
+NULL
 analyzing	O
 collective	O
 inference	O
@@ -36628,6 +37470,7 @@ for	O
 all	O
 models	O
 .	O
+NULL
 [	O
 5	O
 ]	O
@@ -36666,6 +37509,7 @@ suspension	O
 based	O
 waiting	O
 .	O
+NULL
 this	O
 leaves	O
 the	O
@@ -36682,6 +37526,7 @@ temporal	O
 feature	O
 dependencies	O
 .	O
+NULL
 our	O
 approach	O
 differs	O
@@ -36711,6 +37556,7 @@ in	O
 our	O
 environment	O
 .	O
+NULL
 by	O
 using	O
 imp	O
@@ -36732,6 +37578,7 @@ an	O
 unknown	O
 slot	O
 .	O
+NULL
 we	O
 use	O
 default	O
@@ -36787,6 +37634,7 @@ and	O
 0.1	O
 )	O
 .	O
+NULL
 in	O
 ripper	B-Algo
 ,	O
@@ -36818,6 +37666,7 @@ if	O
 then	O
 rules	O
 .	O
+NULL
 classification	B-Algo
 of	O
 the	O
@@ -36836,6 +37685,7 @@ a	O
 2	O
 kernel	O
 .	O
+NULL
 the	O
 curve	O
 of	O
@@ -36849,6 +37699,7 @@ for	O
 performance	O
 comparison	O
 .	O
+NULL
 we	O
 also	O
 performed	O
@@ -36872,6 +37723,7 @@ naturalness	O
 and	O
 consistency	O
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -36893,6 +37745,7 @@ smps	O
 /	O
 cc	O
 .	O
+NULL
 ﻿pergamon	O
 contributed	O
 article	O
@@ -37011,6 +37864,7 @@ technology	O
 is	O
 presented	O
 .	O
+NULL
 the	O
 major	O
 idea	O
@@ -37043,6 +37897,7 @@ be	O
 very	O
 effective	O
 .	O
+NULL
 in	O
 the	O
 four	O
@@ -37096,6 +37951,7 @@ in	O
 neutrality	O
 ep	O
 .	O
+NULL
 feistel	O
 constructions	O
 of	O
@@ -37131,6 +37987,7 @@ see	O
 22,13	O
 ]	O
 .	O
+NULL
 definition	O
 and	O
 identification	O
@@ -37154,6 +38011,7 @@ of	O
 a	O
 program	O
 .	O
+NULL
 searchers	O
 can	O
 annotate	O
@@ -37180,6 +38038,7 @@ histories	O
 with	O
 others	O
 .	O
+NULL
 in	O
 our	O
 previous	O
@@ -37220,6 +38079,7 @@ of	O
 motion	O
 vectors	O
 .	O
+NULL
 b	O
 )	O
 novelty	O
@@ -37259,6 +38119,7 @@ data	O
 points	O
 lie	O
 .	O
+NULL
 she	O
 also	O
 observes	O
@@ -37310,6 +38171,7 @@ not	O
 equals	O
 constraints	O
 .	O
+NULL
 computing	O
 the	O
 confidence	O
@@ -37340,6 +38202,7 @@ bayesian	O
 mlp	B-Algo
 treatment	O
 .	O
+NULL
 massimo	O
 musacchio	O
 ,	O
@@ -37458,6 +38321,7 @@ agencies	O
 in	O
 nigeria	O
 .	O
+NULL
 the	O
 basic	O
 idea	O
@@ -37481,6 +38345,7 @@ loss	O
 and	O
 regularizer	O
 .	O
+NULL
 most	O
 of	O
 these	O
@@ -37519,6 +38384,7 @@ construct	O
 their	O
 models	O
 .	O
+NULL
 causal	O
 ma	O
 filter	O
@@ -37575,6 +38441,7 @@ in	O
 table	O
 4	O
 .	O
+NULL
 therefore	O
 ,	O
 a	O
@@ -37601,6 +38468,7 @@ nite	O
 state	O
 space	O
 .	O
+NULL
 there	O
 has	O
 been	O
@@ -37681,6 +38549,7 @@ models	O
 5	O
 ]	O
 .	O
+NULL
 acoustic	O
 model	O
 with	O
@@ -37706,6 +38575,7 @@ the	O
 acoustic	O
 model	O
 .	O
+NULL
 although	O
 pca	B-Algo
 is	O
@@ -37738,6 +38608,7 @@ of	O
 minimizing	O
 stress	O
 .	O
+NULL
 after	O
 computing	O
 the	O
@@ -37778,6 +38649,7 @@ based	O
 dimensionality	O
 reduction	O
 .	O
+NULL
 speedup	O
 speedup	O
 speedup	O
@@ -38055,6 +38927,7 @@ p8	O
 figure	O
 7	O
 .	O
+NULL
 non	O
 -	O
 filter	O
@@ -38074,6 +38947,7 @@ gaussian	O
 kernels	O
 ,	O
 e.g.	O
+NULL
 in	O
 assets	O
 '	O
@@ -38099,6 +38973,7 @@ pages	O
 ,	O
 2005	O
 .	O
+NULL
 there	O
 are	O
 several	O
@@ -38131,6 +39006,7 @@ eigentrust	O
 8	O
 ]	O
 .	O
+NULL
 the	O
 metacomputing	O
 project	O
@@ -38165,6 +39041,7 @@ under	O
 one	O
 interface	O
 .	O
+NULL
 unfortunately	O
 ,	O
 these	O
@@ -38190,6 +39067,7 @@ given	O
 by	O
 gmrf	B-Algo
 .	O
+NULL
 we	O
 fix	O
 the	O
@@ -38238,6 +39116,7 @@ of	O
 a	O
 document	O
 .	O
+NULL
 the	O
 mlp2#hmm	O
 architecture	O
@@ -38247,6 +39126,7 @@ similar	O
 to	O
 mlp1#hmm	O
 .	O
+NULL
 in	O
 :	O
 proceedings	O
@@ -38269,6 +39149,7 @@ springer	O
 )	O
 2	O
 .	O
+NULL
 each	O
 of	O
 the	O
@@ -38294,6 +39175,7 @@ diagonal	O
 gaussian	O
 mixtures	O
 .	O
+NULL
 the	O
 baseline	O
 is	O
@@ -38308,6 +39190,7 @@ triphone	O
 hmm	B-Algo
 system	O
 .	O
+NULL
 ii	O
 )	O
 texture	O
@@ -38343,6 +39226,7 @@ hog	B-Algo
 1	O
 ]	O
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -38362,6 +39246,7 @@ neighbor	O
 query	O
 execution	O
 .	O
+NULL
 epnet	O
 is	O
 different	O
@@ -38377,6 +39262,7 @@ number	O
 of	O
 aspects	O
 .	O
+NULL
 in	O
 the	O
 ideal	O
@@ -38397,6 +39283,7 @@ from	O
 the	O
 frontier	O
 .	O
+NULL
 downie	O
 [	O
 5	O
@@ -38460,6 +39347,7 @@ each	O
 melody	O
 string	O
 .	O
+NULL
 the	O
 next	O
 step	O
@@ -38531,6 +39419,7 @@ yi	O
 and	O
 yj	O
 .	O
+NULL
 note	O
 that	O
 standard	O
@@ -38568,6 +39457,7 @@ real	O
 valued	O
 vector	O
 .	O
+NULL
 the	O
 embedding	O
 in	O
@@ -38580,6 +39470,7 @@ the	O
 lle	B-Algo
 techniques	O
 .	O
+NULL
 000	O
 )	O
 ,	O
@@ -38654,6 +39545,7 @@ the	O
 ride	O
 is	O
 .	O
+NULL
 the	O
 features	O
 are	O
@@ -38668,6 +39560,7 @@ dimensional	O
 vector	O
 space	O
 .	O
+NULL
 an	O
 advantage	O
 of	O
@@ -38694,6 +39587,7 @@ characters	O
 before	O
 recognition	O
 .	O
+NULL
 in	O
 our	O
 previous	O
@@ -38722,6 +39616,7 @@ reports	O
 5	O
 ]	O
 .	O
+NULL
 identifier	O
 esa	O
 ltdp	O
@@ -38818,6 +39713,7 @@ to	O
 be	O
 made	O
 .	O
+NULL
 the	O
 outcome	O
 of	O
@@ -38970,6 +39866,7 @@ smoothed	O
 intensity	O
 curve	O
 .	O
+NULL
 for	O
 instance	O
 ,	O
@@ -39029,6 +39926,7 @@ assilian	O
 1975	O
 )	O
 .	O
+NULL
 the	O
 author	O
 has	O
@@ -39079,6 +39977,7 @@ work	O
 13	O
 ]	O
 .	O
+NULL
 to	O
 the	O
 time	O
@@ -39090,6 +39989,7 @@ with	O
 the	O
 svm	B-Algo
 .	O
+NULL
 a	O
 logging	O
 facility	O
@@ -39121,6 +40021,7 @@ values	O
 in	O
 dˆ	O
 .	O
+NULL
 in	O
 the	O
 mrfs	B-Algo
@@ -39150,6 +40051,7 @@ label	O
 5	O
 ]	O
 .	O
+NULL
 we	O
 found	O
 that	O
@@ -39177,6 +40079,7 @@ closet+	O
 results	O
 here	O
 .	O
+NULL
 for	O
 problems	O
 on	O
@@ -39212,6 +40115,7 @@ alternative	O
 6	O
 ]	O
 .	O
+NULL
 svm	B-Algo
 multiclass	O
 uses	O
@@ -39244,6 +40148,7 @@ the	O
 dual	O
 formulation	O
 .	O
+NULL
 3.2	O
 lpp	B-Algo
 formulation	O
@@ -39285,6 +40190,7 @@ m	O
 and	O
 ~x	O
 .	O
+NULL
 [	O
 8	O
 ]	O
@@ -39313,6 +40219,7 @@ icassp-95	O
 ,	O
 pp	O
 .	O
+NULL
 lin	O
 (	O
 1997	O
@@ -39357,6 +40264,7 @@ several	O
 subject	O
 areas	O
 .	O
+NULL
 this	O
 means	B-Algo
 that	O
@@ -39416,6 +40324,7 @@ so	O
 much	O
 higher	O
 .	O
+NULL
 2006	O
 )	O
 where	O
@@ -39453,6 +40362,7 @@ robot	O
 ’s	O
 position	O
 .	O
+NULL
 the	O
 matrix	O
 b	O
@@ -39487,6 +40397,7 @@ loan	O
 1996	O
 )	O
 .	O
+NULL
 we	O
 tried	O
 a	O
@@ -39505,6 +40416,7 @@ traditional	O
 tf×idf	O
 scores	O
 .	O
+NULL
 figure	O
 1	O
 shows	O
@@ -39525,6 +40437,7 @@ wikipedia	O
 promotion	O
 run	O
 .	O
+NULL
 independently	O
 ,	O
 a	O
@@ -39569,6 +40482,7 @@ values	O
 of	O
 α	O
 .	O
+NULL
 the	O
 undirected	O
 graphical	O
@@ -39600,6 +40514,7 @@ on	O
 both	O
 datasets	O
 .	O
+NULL
 interest	O
 in	O
 positive	O
@@ -39654,6 +40569,7 @@ face	O
 recognition	O
 problem	O
 .	O
+NULL
 we	O
 present	O
 results	O
@@ -39680,6 +40596,7 @@ xj‖	O
 2	O
 )	O
 .	O
+NULL
 in	O
 fact	O
 ,	O
@@ -39704,6 +40621,7 @@ the	O
 dft	B-Algo
 (	O
 i.e.	O
+NULL
 hog	B-Algo
 was	O
 shown	O
@@ -39714,6 +40632,7 @@ in	O
 classspecific	O
 detection	O
 .	O
+NULL
 given	O
 the	O
 initial	O
@@ -39753,6 +40672,7 @@ in	O
 7	O
 ]	O
 .	O
+NULL
 recently	O
 ,	O
 bof	B-Algo
@@ -39780,6 +40700,7 @@ among	O
 others	O
 )	O
 .	O
+NULL
 dna	O
 rbf	B-Algo
 h1-svm	O
@@ -39802,6 +40723,7 @@ g1=0	O
 g1=1	O
 nr	O
 .	O
+NULL
 for	O
 work	O
 relevant	O
@@ -39848,6 +40770,7 @@ mfom	O
 based	O
 approaches	O
 .	O
+NULL
 elaborating	O
 on	O
 the	O
@@ -39871,6 +40794,7 @@ in	O
 table	O
 3	O
 .	O
+NULL
 the	O
 performance	O
 of	O
@@ -39911,6 +40835,7 @@ per	O
 attribute	O
 fig	O
 .	O
+NULL
 the	O
 probability	O
 that	O
@@ -39927,6 +40852,7 @@ the	O
 sequence	O
 lengths	O
 .	O
+NULL
 for	O
 the	O
 sake	O
@@ -39942,6 +40868,7 @@ referred	O
 to	O
 suffer	O
 .	O
+NULL
 dialog	O
 act	O
 baseline	O
@@ -40013,6 +40940,7 @@ by	O
 da	O
 type	O
 .	O
+NULL
 histogram	O
 normalization	O
 overall	O
@@ -40118,6 +41046,7 @@ silence	O
 fraction	O
 treatment	O
 .	O
+NULL
 a	O
 discussion	O
 on	O
@@ -40132,6 +41061,7 @@ in	O
 section	O
 7.4	O
 .	O
+NULL
 it	O
 also	O
 compares	O
@@ -40155,6 +41085,7 @@ in	O
 §	O
 3.3	O
 .	O
+NULL
 the	O
 set	O
 of	O
@@ -40178,6 +41109,7 @@ to	O
 standardize	O
 comparison	O
 .	O
+NULL
 this	O
 insensitivity	O
 to	O
@@ -40197,6 +41129,7 @@ with	O
 corpus	O
 size	O
 .	O
+NULL
 many	O
 have	O
 considered	O
@@ -40215,6 +41148,7 @@ programs	O
 8	O
 ]	O
 .	O
+NULL
 ng	O
 and	O
 han	O
@@ -40241,6 +41175,7 @@ method	O
 nh94	O
 ]	O
 .	O
+NULL
 the	O
 failure	O
 of	O
@@ -40270,6 +41205,7 @@ data	O
 (	O
 fig	O
 .	O
+NULL
 we	O
 have	O
 measured	O
@@ -40452,6 +41388,7 @@ on	O
 aa	O
 benefits	O
 .	O
+NULL
 monochromatic	O
 rknn	O
 is	O
@@ -40506,6 +41443,7 @@ sets	O
 of	O
 objects	O
 .	O
+NULL
 nmflib	O
 scores	O
 45.3	O
@@ -40536,6 +41474,7 @@ number	O
 of	O
 clusters	O
 .	O
+NULL
 robopedia	O
 architecture	O
 v.	O
@@ -40555,6 +41494,7 @@ and	O
 autonomous	O
 navigation	O
 .	O
+NULL
 4.2	O
 pzd	O
 models	O
@@ -40577,6 +41517,7 @@ and	O
 lexical	O
 features	O
 .	O
+NULL
 by	O
 stacking	O
 mti	O
@@ -40606,6 +41547,7 @@ official	O
 test	O
 set	O
 .	O
+NULL
 test	O
 :	O
 the	O
@@ -40618,6 +41560,7 @@ hmm	B-Algo
 ;	O
 7	O
 .	O
+NULL
 we	O
 considered	O
 five	O
@@ -40661,6 +41604,7 @@ in	O
 section	O
 6.3.4	O
 .	O
+NULL
 the	O
 spiral	O
 project	O
@@ -40708,6 +41652,7 @@ modern	O
 desktop	O
 processor	O
 .	O
+NULL
 this	O
 motivates	O
 us	O
@@ -40733,6 +41678,7 @@ overcome	O
 the	O
 limitations	O
 .	O
+NULL
 acknowledgements	O
 the	O
 authors	O
@@ -40794,6 +41740,7 @@ r01mh074794	O
 and	O
 p41rr13218	O
 .	O
+NULL
 the	O
 crf	B-Algo
 approach	O
@@ -40825,6 +41772,7 @@ over	O
 entire	O
 sequences	O
 .	O
+NULL
 this	O
 suggests	O
 that	O
@@ -40857,6 +41805,7 @@ or	O
 hmm	B-Algo
 iterations	O
 .	O
+NULL
 (	O
 icassp’04	O
 )	O
@@ -40866,6 +41815,7 @@ may	O
 ,	O
 vol	O
 .	O
+NULL
 in	O
 sifter	O
 ,	O
@@ -40897,6 +41847,7 @@ a	O
 numeric	O
 identifier	O
 .	O
+NULL
 4	O
 related	O
 works	O
@@ -41020,6 +41971,7 @@ or	O
 an	O
 event	O
 .	O
+NULL
 the	O
 poorer	O
 svm	B-Algo
@@ -41041,6 +41993,7 @@ word	O
 frequency	O
 vectors	O
 .	O
+NULL
 the	O
 recognition	O
 of	O
@@ -41064,6 +42017,7 @@ for	O
 each	O
 action	O
 .	O
+NULL
 [	O
 2	O
 ]	O
@@ -41098,6 +42052,7 @@ system	O
 in	O
 proc	O
 .	O
+NULL
 as	O
 table	O
 13	O
@@ -41147,6 +42102,7 @@ only	O
 feature	O
 set	O
 .	O
+NULL
 1.500.000	O
 sift	B-Algo
 descriptors	O
@@ -41166,6 +42122,7 @@ descriptors	O
 mb	O
 )	O
 .	O
+NULL
 here	O
 we	O
 train	O
@@ -41201,6 +42158,7 @@ method	O
 (	O
 sec	O
 .	O
+NULL
 this	O
 is	O
 also	O
@@ -41223,6 +42181,7 @@ integer	O
 value	O
 1	O
 .	O
+NULL
 our	O
 work	O
 addresses	O
@@ -41260,6 +42219,7 @@ data	O
 structure	O
 implementation	O
 .	O
+NULL
 3.1	O
 latent	O
 dirichlet	O
@@ -41285,6 +42245,7 @@ and	O
 text	O
 classification	B-Algo
 .	O
+NULL
 in	O
 section	O
 3	O
@@ -41336,6 +42297,7 @@ brocchio	O
 are	O
 sketched	O
 .	O
+NULL
 as	O
 pointed	O
 out	O
@@ -41360,6 +42322,7 @@ to	O
 increase	O
 mlp	B-Algo
 .	O
+NULL
 such	O
 markovian	O
 models	O
@@ -41404,6 +42367,7 @@ are	O
 known	O
 )	O
 .	O
+NULL
 :	O
 silhouette	O
 analysis	O
@@ -41436,6 +42400,7 @@ collins	O
 et	O
 al	O
 .	O
+NULL
 to	O
 the	O
 best	O
@@ -41473,6 +42438,7 @@ ekf	B-Algo
 -	O
 cl	O
 .	O
+NULL
 blobs	O
 hs	O
 sift	B-Algo
@@ -41637,6 +42603,7 @@ three	O
 baseline	O
 methods	O
 .	O
+NULL
 goal	O
 3	O
 :	O
@@ -41666,6 +42633,7 @@ task	O
 :	O
 1	O
 .	O
+NULL
 regarding	O
 the	O
 plsa	B-Algo
@@ -41730,6 +42698,7 @@ depends	O
 on	O
 nz	O
 .	O
+NULL
 young	O
 ,	O
 “	O
@@ -41752,6 +42721,7 @@ icassp	O
 ,	O
 1993	O
 .	O
+NULL
 all	O
 in	O
 svr4	O
@@ -41795,6 +42765,7 @@ p(v)>p(x	O
 )	O
 2.4	O
 .	O
+NULL
 the	O
 arma	B-Algo
 filter	O
@@ -41815,6 +42786,7 @@ low	O
 pass	O
 filter	O
 .	O
+NULL
 the	O
 icap	O
 has	O
@@ -41833,6 +42805,7 @@ of	O
 50	O
 mhz	O
 .	O
+NULL
 ls	O
 -	O
 svm	B-Algo
@@ -41853,6 +42826,7 @@ svm	B-Algo
 for	O
 classification	B-Algo
 .	O
+NULL
 however	O
 ,	O
 they	O
@@ -41868,6 +42842,7 @@ this	O
 statistical	O
 information	O
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -41900,6 +42875,7 @@ against	O
 focused	O
 attacks	O
 .	O
+NULL
 notice	O
 that	O
 this	O
@@ -41929,6 +42905,7 @@ k	O
 =	O
 1	O
 .	O
+NULL
 after	O
 a	O
 short	O
@@ -41994,6 +42971,7 @@ the	O
 first	O
 page	O
 .	O
+NULL
 (	O
 ii	O
 )	O
@@ -42008,6 +42986,7 @@ the	O
 baseline	O
 ds	O
 .	O
+NULL
 probabilistic	O
 lsa	O
 (	O
@@ -42028,6 +43007,7 @@ co	O
 occurrence	O
 data	O
 .	O
+NULL
 for	O
 classification	B-Algo
 ,	O
@@ -42051,6 +43031,7 @@ patterns	O
 6	O
 ]	O
 .	O
+NULL
 (	O
 2003	O
 )	O
@@ -42087,6 +43068,7 @@ language	O
 processing	O
 communities	O
 .	O
+NULL
 the	O
 spectral	O
 svm	B-Algo
@@ -42100,6 +43082,7 @@ kernel	O
 2	O
 ]	O
 .	O
+NULL
 we	O
 again	O
 used	O
@@ -42295,6 +43278,7 @@ shown	O
 on	O
 fig.5	O
 .	O
+NULL
 these	O
 properties	O
 make	O
@@ -42310,6 +43294,7 @@ in	O
 complex	O
 tasks	O
 .	O
+NULL
 :	O
 success	O
 and	O
@@ -42321,6 +43306,7 @@ reuse	O
 341	O
 2	O
 .	O
+NULL
 regarding	O
 nn	O
 ,	O
@@ -42347,6 +43333,7 @@ methods	O
 9	O
 ]	O
 .	O
+NULL
 several	O
 supervised	O
 learning	O
@@ -42401,6 +43388,7 @@ li	O
 2003	O
 ]	O
 .	O
+NULL
 pebl	O
 [	O
 yu	O
@@ -42432,6 +43420,7 @@ build	O
 a	O
 classifier	B-Algo
 .	O
+NULL
 journal	O
 of	O
 the	O
@@ -42468,6 +43457,7 @@ for	O
 conducting	O
 evaluations	O
 .	O
+NULL
 the	O
 difference	O
 with	O
@@ -42488,6 +43478,7 @@ the	O
 precision	O
 metrics	O
 .	O
+NULL
 classifier	B-Algo
 data	O
 type	O
@@ -42778,6 +43769,7 @@ a	O
 small	O
 table	O
 .	O
+NULL
 the	O
 audio	O
 -	O
@@ -42850,6 +43842,7 @@ g	O
 )	O
 3.1	O
 .	O
+NULL
 umicas	O
 (	O
 gruser	O
@@ -42873,6 +43866,7 @@ in	O
 html	O
 interfaces	O
 .	O
+NULL
 three	O
 mlps	B-Algo
 ,	O
@@ -42894,6 +43888,7 @@ modeling	O
 of	O
 audimus	O
 .	O
+NULL
 [	O
 19	O
 ]	O
@@ -42919,6 +43914,7 @@ model	O
 16	O
 ]	O
 .	O
+NULL
 we	O
 do	O
 this	O
@@ -42932,6 +43928,7 @@ extracted	O
 sift	B-Algo
 features	O
 .	O
+NULL
 the	O
 same	O
 signal	O
@@ -42974,6 +43971,7 @@ dimensionality	O
 to	O
 42	O
 .	O
+NULL
 our	O
 lda	B-Algo
 -	O
@@ -42998,6 +43996,7 @@ in	O
 orientation	O
 detection	O
 .	O
+NULL
 the	O
 seif	O
 map	O
@@ -43025,6 +44024,7 @@ relative	O
 ekf	B-Algo
 map	O
 .	O
+NULL
 ﻿recursive	O
 concurrent	O
 stochastic	O
@@ -43072,10 +44072,12 @@ address	O
 mihalis@cs.columbia.edu	O
 abstract	O
 .	O
+NULL
 raw	O
 mlp	B-Algo
 features	O
 .	O
+NULL
 the	O
 basic	O
 idea	O
@@ -43115,6 +44117,7 @@ these	O
 alternatives	O
 are	O
 .	O
+NULL
 we	O
 proposed	O
 a	O
@@ -43147,6 +44150,7 @@ level	O
 address	O
 mappings	O
 .	O
+NULL
 initially	O
 ,	O
 assume	O
@@ -43191,6 +44195,7 @@ meta	O
 learning	O
 approach	O
 .	O
+NULL
 in	O
 section	O
 4	O
@@ -43211,6 +44216,7 @@ follow	O
 from	O
 them	O
 .	O
+NULL
 note	O
 in	O
 particular	O
@@ -43300,6 +44306,7 @@ are	O
 used	O
 )	O
 .	O
+NULL
 in	O
 the	O
 last	O
@@ -43336,6 +44343,7 @@ row	O
 1	O
 )	O
 .	O
+NULL
 more	O
 complex	O
 techniques	O
@@ -43363,6 +44371,7 @@ space	O
 10,11	O
 ]	O
 .	O
+NULL
 the	O
 number	O
 of	O
@@ -43527,6 +44536,7 @@ c	O
 )	O
 leaves	O
 .	O
+NULL
 this	O
 is	O
 due	O
@@ -43541,6 +44551,7 @@ communications	O
 ,	O
 vol	O
 .	O
+NULL
 on	O
 the	O
 cluttered	O
@@ -43578,6 +44589,7 @@ figure	O
 11	O
 )	O
 .	O
+NULL
 divergence	O
 1856	O
 2030	O
@@ -43832,6 +44844,7 @@ covariance	O
 table	O
 2	O
 .	O
+NULL
 a	O
 conducted	O
 simulation	O
@@ -43851,6 +44864,7 @@ analysis	O
 for	O
 fft	O
 .	O
+NULL
 data	O
 collection	O
 and	O
@@ -43875,6 +44889,7 @@ for	O
 this	O
 study	O
 .	O
+NULL
 in	O
 addition	O
 to	O
@@ -43906,6 +44921,7 @@ overall	O
 speedup	O
 of	O
 2.2×.	O
+NULL
 christiane	O
 schmullius	O
 ,	O
@@ -44658,6 +45674,7 @@ about	O
 satellites	O
 !	O
 !	O
+NULL
 algorithm	O
 average	B-Algo
 classification	B-Algo
@@ -44733,6 +45750,7 @@ a	O
 different	O
 value	O
 .	O
+NULL
 ipsols	O
 shares	O
 a	O
@@ -44743,6 +45761,7 @@ with	O
 other	O
 algorithms	O
 .	O
+NULL
 furthermore	O
 ,	O
 hits+relevance	O
@@ -44765,6 +45784,7 @@ the	O
 best	O
 result	O
 .	O
+NULL
 section	O
 5	O
 describes	O
@@ -44782,6 +45802,7 @@ for	O
 f0	O
 generation	O
 .	O
+NULL
 we	O
 find	O
 that	O
@@ -44812,6 +45833,7 @@ by	O
 diversity	O
 metrics	O
 .	O
+NULL
 for	O
 each	O
 choice	O
@@ -44853,6 +45875,7 @@ mmi2083	O
 based	O
 optimization	O
 .	O
+NULL
 figure	O
 17	O
 shows	O
@@ -44866,6 +45889,7 @@ size	O
 on	O
 dftl	O
 .	O
+NULL
 conclusion	O
 query	O
 search	O
@@ -44920,6 +45944,7 @@ are	O
 the	O
 following	O
 .	O
+NULL
 this	O
 optimization	O
 is	O
@@ -44948,6 +45973,7 @@ radix	O
 and	O
 tomcatv	O
 .	O
+NULL
 for	O
 lower	O
 transmission	O
@@ -44965,6 +45991,7 @@ to	O
 70	O
 %	O
 .	O
+NULL
 memory	O
 space	O
 problem	O
@@ -44995,6 +46022,7 @@ of	O
 texture	O
 rm	O
 .	O
+NULL
 a	O
 classifier	B-Algo
 selection	O
@@ -45012,6 +46040,7 @@ iterations	O
 of	O
 svm	B-Algo
 .	O
+NULL
 a	O
 mamdani	O
 type	O
@@ -45027,6 +46056,7 @@ than	O
 triangular	O
 ones	O
 .	O
+NULL
 as	O
 a	O
 main	O
@@ -45072,6 +46102,7 @@ different	O
 sampling	O
 rates	O
 .	O
+NULL
 active	O
 direction	O
 -	O
@@ -45208,6 +46239,7 @@ more	O
 accurate	O
 direction	O
 .	O
+NULL
 svm	B-Algo
 learning	O
 is	O
@@ -45222,6 +46254,7 @@ a	O
 predefined	O
 error	O
 .	O
+NULL
 p	O
 0.95	O
 (	O
@@ -45552,6 +46585,7 @@ min	O
 -	O
 pooling	O
 .	O
+NULL
 based	O
 on	O
 the	O
@@ -45574,6 +46608,7 @@ developed	O
 ]	O
 )	O
 .	O
+NULL
 markov	O
 random	O
 fields	O
@@ -45603,6 +46638,7 @@ our	O
 initial	O
 query	O
 .	O
+NULL
 for	O
 instance	O
 ,	O
@@ -45626,6 +46662,7 @@ released	O
 for	O
 windowsnt	O
 .	O
+NULL
 the	O
 svm	B-Algo
 approach	O
@@ -45648,6 +46685,7 @@ the	O
 training	B-Algo
 set	O
 .	O
+NULL
 4.1	O
 probabilistic	O
 latent	O
@@ -45684,6 +46722,7 @@ co	O
 occurrence	O
 data	O
 .	O
+NULL
 a	O
 more	O
 extensive	O
@@ -45905,6 +46944,7 @@ c	O
 dtt	O
 fig	O
 .	O
+NULL
 sifter	O
 uses	O
 the	O
@@ -45917,6 +46957,7 @@ for	O
 document	O
 filtering	O
 .	O
+NULL
 �	O
 �	O
 �	O
@@ -46187,6 +47228,7 @@ the	O
 final	O
 min	O
 .	O
+NULL
 percentage	O
 100	O
 90	O
@@ -46252,6 +47294,7 @@ collection	O
 -	O
 j	O
 .	O
+NULL
 [	O
 4	O
 ]	O
@@ -46283,6 +47326,7 @@ directions	O
 of	O
 images	O
 .	O
+NULL
 gsm	O
 user	O
 authentication	O
@@ -46301,6 +47345,7 @@ disabling	O
 40	O
 6	O
 .	O
+NULL
 [	O
 2	O
 ]	O
@@ -46321,6 +47366,7 @@ of	O
 the	O
 documents	O
 .	O
+NULL
 there	O
 is	O
 a	O
@@ -46360,6 +47406,7 @@ the	O
 pca	B-Algo
 baseline	O
 .	O
+NULL
 we	O
 also	O
 discuss	O
@@ -46391,6 +47438,7 @@ estimating	O
 the	O
 tempo	O
 .	O
+NULL
 using	O
 the	O
 standard	O
@@ -46411,6 +47459,7 @@ impact	O
 on	O
 results	O
 .	O
+NULL
 then	O
 we	O
 apply	O
@@ -46453,6 +47502,7 @@ applications	O
 153	O
 respectively	O
 .	O
+NULL
 jacob	O
 et	O
 al	O
@@ -46504,6 +47554,7 @@ of	O
 workload	O
 locality	O
 .	O
+NULL
 the	O
 ge	O
 -	O
@@ -46529,6 +47580,7 @@ equ	O
 svm	B-Algo
 respectively	O
 .	O
+NULL
 kbsvms	O
 can	O
 also	O
@@ -46552,6 +47604,7 @@ of	O
 future	O
 work	O
 .	O
+NULL
 across	O
 -	O
 frame	O
@@ -46565,6 +47618,7 @@ also	O
 improves	O
 performance	O
 .	O
+NULL
 in	O
 (	O
 c	O
@@ -46597,6 +47651,7 @@ dftl	O
 ,	O
 respectively	O
 .	O
+NULL
 fourth	O
 ,	O
 for	O
@@ -46637,6 +47692,7 @@ loss	O
 ratio	O
 parameter	O
 .	O
+NULL
 for	O
 example	O
 ,	O
@@ -46702,6 +47758,7 @@ mobile	O
 devices	O
 )	O
 .	O
+NULL
 precision	O
 1	O
 0.8	O
@@ -46728,6 +47785,7 @@ tdsr	O
 figure	O
 2	O
 .	O
+NULL
 results	O
 for	O
 three	O
@@ -46740,6 +47798,7 @@ srv	O
 and	O
 hmm	B-Algo
 .	O
+NULL
 keywords	O
 ca	O
 ,	O
@@ -46752,6 +47811,7 @@ aes	O
 symmetric	O
 key	O
 .	O
+NULL
 it	O
 can	O
 be	O
@@ -46961,6 +48021,7 @@ noblk+p8	O
 baseline	O
 noblk	O
 .	O
+NULL
 given	O
 a	O
 corpus	O
@@ -46990,6 +48051,7 @@ distributions	O
 over	O
 words	O
 .	O
+NULL
 therefore	O
 	O
 1	O
@@ -47135,6 +48197,7 @@ eon	O
 figure	O
 5	O
 .	O
+NULL
 accent	O
 identification	O
 system	O
@@ -47158,6 +48221,7 @@ of	O
 figure	O
 3	O
 .	O
+NULL
 the	O
 reported	O
 results	O
@@ -47177,6 +48241,7 @@ we	O
 used	O
 here	O
 .	O
+NULL
 in	O
 that	O
 work	O
@@ -47202,6 +48267,7 @@ mrf	B-Algo
 sequence	O
 model	O
 .	O
+NULL
 we	O
 do	O
 not	O
@@ -47256,6 +48322,7 @@ problems	O
 as	O
 pca	B-Algo
 .	O
+NULL
 rbf	B-Algo
 networks	O
 originated	O
@@ -47283,6 +48350,7 @@ basis	O
 function	O
 nodes	O
 .	O
+NULL
 when	O
 t	O
 =	O
@@ -47324,6 +48392,7 @@ due	O
 to	O
 mislabeling	O
 .	O
+NULL
 application	O
 computer	O
 chess	O
@@ -47361,6 +48430,7 @@ of	O
 the	O
 day	O
 .	O
+NULL
 we	O
 also	O
 experimented	O
@@ -47428,6 +48498,7 @@ located	O
 ,	O
 etc	O
 .	O
+NULL
 the	O
 difference	O
 is	O
@@ -47448,6 +48519,7 @@ within	O
 document	O
 pairs	O
 .	O
+NULL
 compression	O
 results	O
 proceedings	O
@@ -47506,6 +48578,7 @@ compressed	O
 memory	O
 hierarchy	O
 .	O
+NULL
 while	O
 neat	O
 is	O
@@ -47532,6 +48605,7 @@ a	O
 wide	O
 margin	O
 .	O
+NULL
 system	O
 flow	O
 for	O
@@ -47627,6 +48701,7 @@ on	O
 the	O
 labeling	O
 .	O
+NULL
 the	O
 hog	B-Algo
 -	O
@@ -47653,6 +48728,7 @@ a	O
 similarity	O
 measure	O
 .	O
+NULL
 given	O
 a	O
 series	O
@@ -47673,6 +48749,7 @@ haar	O
 dwt	B-Algo
 construction	O
 .	O
+NULL
 4	O
 cryptography	O
 in	O
@@ -47703,6 +48780,7 @@ of	O
 such	O
 solutions	O
 .	O
+NULL
 p	O
 wave	O
 74.2	O
@@ -47768,6 +48846,7 @@ wavelet	O
 encoded	O
 ecg	O
 .	O
+NULL
 section	O
 2	O
 describes	O
@@ -47782,6 +48861,7 @@ using	O
 unlabeled	O
 data	O
 .	O
+NULL
 we	O
 used	O
 three	O
@@ -47814,6 +48894,7 @@ or	O
 tail	O
 state	O
 .	O
+NULL
 ssassemble	O
 :	O
 semi	O
@@ -47846,6 +48927,7 @@ deselaers	O
 et	O
 al	O
 .	O
+NULL
 links	O
 have	O
 less	O
@@ -47873,6 +48955,7 @@ the	O
 baseline	O
 condition	O
 .	O
+NULL
 a	O
 variety	O
 of	O
@@ -47912,6 +48995,7 @@ anomalies	O
 28	O
 ]	O
 .	O
+NULL
 for	O
 that	O
 definition	O
@@ -47959,6 +49043,7 @@ general	O
 graphs	O
 )	O
 .	O
+NULL
 moreover	O
 ,	O
 the	O
@@ -47980,6 +49065,7 @@ obtained	O
 using	O
 pl2	O
 .	O
+NULL
 we	O
 then	O
 perform	O
@@ -48021,6 +49107,7 @@ hence	O
 robust	O
 w.r.t	O
 .	O
+NULL
 this	O
 is	O
 better	O
@@ -48037,6 +49124,7 @@ and	O
 %	O
 respectively	O
 .	O
+NULL
 the	O
 situation	O
 is	O
@@ -48062,6 +49150,7 @@ have	O
 equal	O
 map	O
 .	O
+NULL
 we	O
 believe	O
 that	O
@@ -48081,6 +49170,7 @@ easy	O
 to	O
 practice	O
 .	O
+NULL
 we	O
 also	O
 compared	O
@@ -48102,6 +49192,7 @@ to	O
 these	O
 encodings	O
 .	O
+NULL
 the	O
 fertility	O
 hmm	B-Algo
@@ -48122,6 +49213,7 @@ than	O
 the	O
 hmm	B-Algo
 .	O
+NULL
 2	O
 )	O
 directly	O
@@ -48143,6 +49235,7 @@ to	O
 link	O
 analysis	O
 .	O
+NULL
 each	O
 csvm	O
 is	O
@@ -48158,6 +49251,7 @@ in	O
 each	O
 cluster	O
 .	O
+NULL
 the	O
 lowest	O
 error	O
@@ -48195,6 +49289,7 @@ feature	O
 set	O
 )	O
 .	O
+NULL
 as	O
 mentioned	O
 earlier	O
@@ -48237,6 +49332,7 @@ identical	O
 probabilistic	O
 algorithm	O
 .	O
+NULL
 feedback	O
 )	O
 25.7	O
@@ -48302,6 +49398,7 @@ friedman	O
 test	O
 )	O
 .	O
+NULL
 discriminative	O
 training	B-Algo
 :	O
@@ -48315,6 +49412,7 @@ using	O
 ml	O
 criterion	O
 .	O
+NULL
 our	O
 results	O
 show	O
@@ -48352,6 +49450,7 @@ the	O
 greedy	O
 algorithm	O
 .	O
+NULL
 we	O
 selected	O
 the	O
@@ -48381,6 +49480,7 @@ after	O
 cross	O
 validation	O
 .	O
+NULL
 the	O
 dct	B-Algo
 is	O
@@ -48394,6 +49494,7 @@ transform	O
 dft	B-Algo
 )	O
 .	O
+NULL
 we	O
 also	O
 compared	O
@@ -48419,6 +49520,7 @@ base	O
 line	O
 method	O
 .	O
+NULL
 in	O
 nsga	B-Algo
 -	O
@@ -48433,6 +49535,7 @@ a	O
 binary	O
 tournament	O
 .	O
+NULL
 development	O
 arabic	O
 -	O
@@ -48483,6 +49586,7 @@ rank	O
 table	O
 1	O
 .	O
+NULL
 joaquín	O
 muñoz	O
 sabater	O
@@ -49207,6 +50311,7 @@ an	O
 ecological	O
 perspective	O
 .	O
+NULL
 query	O
 length	O
 method	O
@@ -49771,6 +50876,7 @@ relevance	O
 of	O
 .402	O
 .	O
+NULL
 an	O
 example	O
 of	O
@@ -49802,6 +50908,7 @@ zero	O
 after	O
 dct	B-Algo
 .	O
+NULL
 table	O
 1	O
 tabulates	O
@@ -49828,6 +50935,7 @@ of	O
 columns	O
 respectively	O
 .	O
+NULL
 in	O
 order	O
 to	O
@@ -49875,6 +50983,7 @@ lda	B-Algo
 12	O
 ]	O
 .	O
+NULL
 this	O
 motivates	O
 deeper	O
@@ -49906,6 +51015,7 @@ for	O
 the	O
 svm	B-Algo
 .	O
+NULL
 2	O
 review	O
 of	O
@@ -49920,6 +51030,7 @@ sketch	O
 is	O
 provided	O
 .	O
+NULL
 as	O
 the	O
 network	O
@@ -49970,6 +51081,7 @@ at	O
 time	O
 t	O
 .	O
+NULL
 dna	O
 -	O
 based	O
@@ -50006,6 +51118,7 @@ top	O
 down	O
 manufacturing	O
 .	O
+NULL
 we	O
 use	O
 the	O
@@ -50046,6 +51159,7 @@ etc	O
 .	O
 )	O
 .	O
+NULL
 kstar	O
 reaches	O
 a	O
@@ -50067,6 +51181,7 @@ for	O
 individual	O
 classes	O
 .	O
+NULL
 this	O
 	O
 was	O
@@ -50090,6 +51205,7 @@ as	O
 training	B-Algo
 material	O
 .	O
+NULL
 in	O
 continuous	O
 density	O
@@ -50107,6 +51223,7 @@ state	O
 emission	O
 probabilities	O
 .	O
+NULL
 for	O
 this	O
 reason	O
@@ -50134,6 +51251,7 @@ for	O
 pose	O
 normalization	O
 .	O
+NULL
 barnes	O
 -	O
 hut	O
@@ -50188,6 +51306,7 @@ an	O
 unstructured	O
 mesh	O
 .	O
+NULL
 test	O
 additional	O
 resources	O
@@ -50234,6 +51353,7 @@ detector	O
 [	O
 sup	O
 .	O
+NULL
 age	O
 estimation	O
 experiments	O
@@ -50261,6 +51381,7 @@ gmm	O
 supervector	O
 approach	O
 .	O
+NULL
 150	O
 d−surf	O
 4x4	O
@@ -50326,6 +51447,7 @@ and	O
 classification	B-Algo
 speed	O
 .	O
+NULL
 the	O
 dwt	B-Algo
 is	O
@@ -50348,6 +51470,7 @@ signal	O
 is	O
 required	O
 .	O
+NULL
 last	O
 ,	O
 as	O
@@ -50376,6 +51499,7 @@ imaging	O
 ,	O
 vol	O
 .	O
+NULL
 in	O
 our	O
 experiments	O
@@ -50396,6 +51520,7 @@ on	O
 state	O
 ti−1	O
 .	O
+NULL
 mapreduce	O
 has	O
 not	O
@@ -50409,6 +51534,7 @@ of	O
 knn	B-Algo
 queries	O
 .	O
+NULL
 lastly	O
 ,	O
 arman	O
@@ -50432,6 +51558,7 @@ domain	O
 1	O
 ]	O
 .	O
+NULL
 wolf	O
 -	O
 iga	O
@@ -50451,6 +51578,7 @@ arbitrary	O
 sized	O
 games	O
 .	O
+NULL
 however	O
 ,	O
 in	O
@@ -50503,6 +51631,7 @@ gmm	O
 hmm	B-Algo
 approach	O
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -50550,6 +51679,7 @@ instances	O
 of	O
 hmms	B-Algo
 .	O
+NULL
 the	O
 metric	O
 homogeneity	O
@@ -50580,6 +51710,7 @@ based	O
 tracking	O
 system	O
 .	O
+NULL
 however	O
 ,	O
 previous	O
@@ -50631,6 +51762,7 @@ supervised	O
 learning	O
 case	O
 .	O
+NULL
 previously	O
 reported	O
 that	O
@@ -50661,6 +51793,7 @@ the	O
 loss	O
 ratio	O
 .	O
+NULL
 we	O
 compare	O
 the	O
@@ -50685,6 +51818,7 @@ slot	O
 status	O
 features	O
 .	O
+NULL
 [	O
 11	O
 ]	O
@@ -50712,6 +51846,7 @@ possibility	O
 of	O
 matching	O
 .	O
+NULL
 at	O
 that	O
 time	O
@@ -50728,6 +51863,7 @@ specific	O
 intermediate	O
 domain	O
 .	O
+NULL
 table	O
 2(a	O
 )	O
@@ -50761,6 +51897,7 @@ a	O
 confidence	O
 level	O
 .	O
+NULL
 performance	O
 using	O
 our	O
@@ -50779,6 +51916,7 @@ rc	O
 -	O
 er	O
 .	O
+NULL
 therefore	O
 ,	O
 the	O
@@ -50825,6 +51963,7 @@ we	O
 have	O
 analyzed	O
 .	O
+NULL
 we	O
 also	O
 observe	O
@@ -50848,6 +51987,7 @@ in	O
 figure	O
 3	O
 .	O
+NULL
 in	O
 the	O
 second	O
@@ -50875,6 +52015,7 @@ shown	O
 in	O
 fig	O
 .	O
+NULL
 thus	O
 ,	O
 hidden	O
@@ -50901,6 +52042,7 @@ constituent	O
 waveform	O
 features	O
 .	O
+NULL
 in	O
 [	O
 2	O
@@ -50940,6 +52082,7 @@ have	O
 those	O
 properties	O
 .	O
+NULL
 in	O
 method	O
 b	O
@@ -50969,6 +52112,7 @@ such	O
 as	O
 svm	B-Algo
 .	O
+NULL
 hence	O
 the	O
 activity	O
@@ -50983,6 +52127,7 @@ in	O
 an	O
 hmm	B-Algo
 .	O
+NULL
 proposed	O
 hierarchical	O
 conditional	O
@@ -51002,6 +52147,7 @@ from	O
 web	O
 documents	O
 .	O
+NULL
 we	O
 shall	O
 term	O
@@ -51013,6 +52159,7 @@ method	O
 as	O
 dctmod	O
 .	O
+NULL
 robust	O
 pca	B-Algo
 (	O
@@ -51026,6 +52173,7 @@ as	O
 robust	O
 baseline	O
 .	O
+NULL
 algorithm	O
 f	O
 -	O
@@ -51083,6 +52231,7 @@ recall	O
 1	O
 fig	O
 .	O
+NULL
 with	O
 this	O
 method	O
@@ -51122,6 +52271,7 @@ data	O
 analysis	O
 goals	O
 .	O
+NULL
 the	O
 svm	B-Algo
 is	O
@@ -51146,6 +52296,7 @@ the	O
 underlying	O
 function	O
 .	O
+NULL
 serverblast	O
 ,	O
 dp	O
@@ -51169,6 +52320,7 @@ the	O
 xilinx	O
 xc4vlx160	O
 .	O
+NULL
 we	O
 then	O
 consider	O
@@ -51195,6 +52347,7 @@ on	O
 reduced	O
 dimensions	O
 .	O
+NULL
 bilda	O
 takes	O
 advantage	O
@@ -51228,6 +52381,7 @@ bilingual	O
 comparable	O
 documents	O
 .	O
+NULL
 map	O
 of	O
 template	O
@@ -51272,6 +52426,7 @@ the	O
 test	O
 queries	O
 .	O
+NULL
 the	O
 intuition	O
 behind	O
@@ -51319,6 +52474,7 @@ as	O
 in	O
 fld	B-Algo
 .	O
+NULL
 recently	O
 ,	O
 hidden	O
@@ -51355,6 +52511,7 @@ the	O
 observation	O
 space	O
 .	O
+NULL
 persson	O
 and	O
 j.	O
@@ -51385,6 +52542,7 @@ aztecoo	O
 21	O
 ]	O
 .	O
+NULL
 for	O
 example	O
 denclue	O
@@ -51405,6 +52563,7 @@ the	O
 influence	O
 function	O
 .	O
+NULL
 another	O
 very	O
 fast	O
@@ -51432,6 +52591,7 @@ of	O
 263	O
 mlps	B-Algo
 .	O
+NULL
 svm	B-Algo
 was	O
 the	O
@@ -51480,6 +52640,7 @@ classifiers	B-Algo
 0.19s	O
 )	O
 .	O
+NULL
 for	O
 both	O
 of	O
@@ -51514,6 +52675,7 @@ and/or	O
 learned	O
 generatively	O
 .	O
+NULL
 it	O
 is	O
 apparent	O
@@ -51534,6 +52696,7 @@ the	O
 three	O
 tasks	O
 .	O
+NULL
 1	O
 0.95	O
 0.9	O
@@ -51578,6 +52741,7 @@ ion	O
 and	O
 iris	O
 .	O
+NULL
 they	O
 are	O
 aain	O
@@ -51592,6 +52756,7 @@ svm	B-Algo
 -	O
 all	O
 .	O
+NULL
 the	O
 pca	B-Algo
 dimensionality	O
@@ -51618,6 +52783,7 @@ cases	O
 is	O
 severe	O
 .	O
+NULL
 2	O
 that	O
 classification	B-Algo
@@ -51654,6 +52820,7 @@ against	O
 the	O
 svm	B-Algo
 .	O
+NULL
 :	O
 success	O
 and	O
@@ -51679,6 +52846,7 @@ or	O
 ordinal	O
 )	O
 .	O
+NULL
 application	O
 baseline	O
 values	O
@@ -51896,6 +53064,7 @@ idle	O
 system	O
 (	O
 i.e.	O
+NULL
 (	O
 for	O
 all	O
@@ -51942,6 +53111,7 @@ among	O
 }	O
 .	O
 )	O
+NULL
 complement	O
 naïve	O
 bayes	O
@@ -51972,6 +53142,7 @@ algorithms	O
 like	O
 svm	B-Algo
 .	O
+NULL
 discriminative	O
 ghmms	O
 using	O
@@ -51980,6 +53151,7 @@ mlp	B-Algo
 based	O
 features	O
 .	O
+NULL
 this	O
 is	O
 the	O
@@ -52066,6 +53238,7 @@ and	O
 different	O
 networks	O
 .	O
+NULL
 2	O
 convex	O
 optimization	O
@@ -52085,6 +53258,7 @@ under	O
 restricted	O
 assumptions	O
 .	O
+NULL
 as	O
 illustrated	O
 in	O
@@ -52124,6 +53298,7 @@ equ	O
 svm	B-Algo
 respectively	O
 .	O
+NULL
 there	O
 is	O
 a	O
@@ -52154,6 +53329,7 @@ integrated	O
 into	O
 bowl	O
 .	O
+NULL
 lle	B-Algo
 has	O
 been	O
@@ -52189,6 +53365,7 @@ manifolds	O
 22	O
 ]	O
 .	O
+NULL
 discussion	O
 and	O
 future	O
@@ -52292,6 +53469,7 @@ the	O
 feature	O
 set	O
 .	O
+NULL
 definition	O
 1	O
 (	O
@@ -52303,6 +53481,7 @@ path	O
 query	O
 )	O
 .	O
+NULL
 the	O
 set	O
 of	O
@@ -52348,6 +53527,7 @@ both	O
 methods	O
 below	O
 .	O
+NULL
 replication	O
 in	O
 manta	O
@@ -52373,6 +53553,7 @@ possible	O
 to	O
 rmi	O
 .	O
+NULL
 reported	O
 scalablast	O
 [	O
@@ -52396,6 +53577,7 @@ array	O
 ]	O
 toolkit	O
 .	O
+NULL
 3	O
 graph	O
 -	O
@@ -52421,6 +53603,7 @@ categorization	O
 in	O
 wikipedia	O
 .	O
+NULL
 implications	O
 of	O
 hot	O
@@ -52457,6 +53640,7 @@ the	O
 forwarding	O
 plane	O
 .	O
+NULL
 several	O
 groups	O
 have	O
@@ -52479,6 +53663,7 @@ well	O
 defined	O
 architecture	O
 .	O
+NULL
 in	O
 the	O
 context	O
@@ -52584,6 +53769,7 @@ class	O
 covariance	O
 matrix	O
 .	O
+NULL
 each	O
 	O
 genome	O
@@ -52607,6 +53793,7 @@ genes	O
 being	O
 connected	O
 .	O
+NULL
 case	O
 in	O
 point	O
@@ -52676,6 +53863,7 @@ method	O
 12	O
 ]	O
 .	O
+NULL
 at	O
 most	O
 5	O
@@ -52693,6 +53881,7 @@ resulting	O
 hmms	B-Algo
 tested	O
 .	O
+NULL
 the	O
 best	O
 result	O
@@ -52715,6 +53904,7 @@ the	O
 closest	O
 neighbour	O
 .	O
+NULL
 auxiliary	O
 feature	O
 none	O
@@ -52844,6 +54034,7 @@ rb=0	O
 table	O
 1	O
 .	O
+NULL
 4	O
 http://www.jthink.net/jaudiotagger	O
 5	O
@@ -53230,6 +54421,7 @@ performance	O
 evaluation	O
 baseline	O
 .	O
+NULL
 however	O
 ,	O
 an	O
@@ -53248,6 +54440,7 @@ handled	O
 by	O
 spellex	O
 .	O
+NULL
 we	O
 use	O
 zfull	O
@@ -53265,6 +54458,7 @@ final	O
 predictive	O
 model	O
 .	O
+NULL
 cmrm	O
 cmtt	O
 plsa	B-Algo
@@ -53291,6 +54485,7 @@ the	O
 qtest	O
 set	O
 .	O
+NULL
 more	O
 recently	O
 ,	O
@@ -53309,6 +54504,7 @@ roc	O
 -	O
 svm	B-Algo
 .	O
+NULL
 section	O
 3	O
 explains	O
@@ -53319,6 +54515,7 @@ the	O
 continuous	O
 plsi	B-Algo
 .	O
+NULL
 the	O
 underlying	O
 idea	O
@@ -53339,6 +54536,7 @@ features	O
 are	O
 uncorrelated	O
 .	O
+NULL
 similarly	O
 ,	O
 on	O
@@ -53382,6 +54580,7 @@ obtains	O
 %	O
 improvement	O
 .	O
+NULL
 jst	O
 overcomes	O
 these	O
@@ -53398,6 +54597,7 @@ better	O
 statistical	O
 foundation	O
 .	O
+NULL
 provided	O
 that	O
 we	O
@@ -53426,6 +54626,7 @@ the	O
 interpretation	O
 error	O
 .	O
+NULL
 this	O
 improvement	O
 over	O
@@ -53454,6 +54655,7 @@ face	O
 recognition	O
 approaches	O
 .	O
+NULL
 running	O
 rdt	O
 is	O
@@ -53471,6 +54673,7 @@ efficient	O
 than	O
 rf	O
 .	O
+NULL
 subshot	O
 #	O
 structure	O
@@ -53509,6 +54712,7 @@ gaussian	O
 table	O
 1	O
 .	O
+NULL
 the	O
 error	O
 done	O
@@ -53522,6 +54726,7 @@ optimal	O
 network	O
 )	O
 .	O
+NULL
 there	O
 are	O
 tools	O
@@ -53557,6 +54762,7 @@ the	O
 fledgling	O
 stages	O
 .	O
+NULL
 in	O
 the	O
 third	O
@@ -53590,6 +54796,7 @@ b	O
 )	O
 )	O
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -53656,6 +54863,7 @@ the	O
 whole	O
 message	O
 .	O
+NULL
 they	O
 propose	O
 a	O
@@ -53681,6 +54889,7 @@ or	O
 regression	B-Algo
 problem	O
 .	O
+NULL
 5.3	O
 baselines	O
 the	O
@@ -53704,6 +54913,7 @@ cohn	O
 et	O
 al	O
 .	O
+NULL
 in	O
 principle	O
 ,	O
@@ -53751,6 +54961,7 @@ approach	O
 6	O
 ]	O
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -53794,6 +55005,7 @@ in	O
 table	O
 8	O
 .	O
+NULL
 when	O
 trained	O
 on	O
@@ -53818,6 +55030,7 @@ of	O
 log	O
 likelihood	O
 .	O
+NULL
 finally	O
 ,	O
 note	O
@@ -53857,6 +55070,7 @@ pca	B-Algo
 2	O
 ]	O
 .	O
+NULL
 even	O
 so	O
 ,	O
@@ -53888,6 +55102,7 @@ resource	O
 intensive	O
 process	O
 .	O
+NULL
 for	O
 a	O
 similarity	O
@@ -53920,6 +55135,7 @@ query	O
 7	O
 ]	O
 .	O
+NULL
 in	O
 section	O
 v	O
@@ -53957,6 +55173,7 @@ ii	O
 7	O
 ]	O
 .	O
+NULL
 for	O
 the	O
 same	O
@@ -53982,6 +55199,7 @@ numbers	O
 per	O
 object	O
 .	O
+NULL
 these	O
 approaches	O
 ,	O
@@ -54002,6 +55220,7 @@ like	O
 g	O
 mrf	B-Algo
 .	O
+NULL
 cs	O
 theory	O
 states	O
@@ -54056,6 +55275,7 @@ d	O
 text	O
 fig	O
 .	O
+NULL
 related	O
 work	O
 several	O
@@ -54073,6 +55293,7 @@ problem	O
 of	O
 kpca	B-Algo
 .	O
+NULL
 in	O
 particular	O
 ,	O
@@ -54110,6 +55331,7 @@ have	O
 been	O
 introduced	O
 .	O
+NULL
 c	O
 is	O
 the	O
@@ -54200,6 +55422,7 @@ irr	O
 ¡	O
   	O
 .	O
+NULL
 the	O
 performance	O
 for	O
@@ -54221,6 +55444,7 @@ for	O
 naive	O
 bayes	O
 .	O
+NULL
 combining	O
 with	O
 an	O
@@ -54235,6 +55459,7 @@ showed	O
 marked	O
 improvement	O
 .	O
+NULL
 the	O
 first	O
 experiment	O
@@ -54250,6 +55475,7 @@ mg	O
 lda	B-Algo
 features	O
 .	O
+NULL
 nnmf	O
 is	O
 a	O
@@ -54268,6 +55494,7 @@ non	O
 negative	O
 constraints	O
 .	O
+NULL
 mesterharm	O
 [	O
 15	O
@@ -54306,6 +55533,7 @@ via	O
 posterior	O
 distributions	O
 .	O
+NULL
 the	O
 generator	O
 accepts	O
@@ -54333,6 +55561,7 @@ generated	O
 dft	B-Algo
 cores	O
 .	O
+NULL
 acoustics	O
 ,	O
 speech	O
@@ -54347,6 +55576,7 @@ icassp	O
 ,	O
 vol	O
 .	O
+NULL
 this	O
 was	O
 a	O
@@ -54361,6 +55591,7 @@ real	O
 communicator	O
 systems	O
 .	O
+NULL
 cscw	O
 and	O
 notification	O
@@ -54402,6 +55633,7 @@ is	O
 carried	O
 out	O
 .	O
+NULL
 processor	O
 model	O
 the	O
@@ -54427,6 +55659,7 @@ in	O
 figure	O
 1	O
 .	O
+NULL
 the	O
 perceptron	B-Algo
 algorithm	O
@@ -54450,6 +55683,7 @@ make	O
 many	O
 mistakes	O
 .	O
+NULL
 max	O
 random	O
 .03	O
@@ -54539,6 +55773,7 @@ the	O
 therapeutic	O
 class	O
 .	O
+NULL
 overall	O
 ,	O
 while	O
@@ -54586,6 +55821,7 @@ been	O
 adequately	O
 addressed	O
 .	O
+NULL
 (	O
 2003	O
 ,	O
@@ -54605,9 +55841,11 @@ algorithm	O
 moea	B-Algo
 )	O
 .	O
+NULL
 theoretical	O
 learnability	O
 a.	O
+NULL
 the	O
 baseline	O
 semi	O
@@ -54662,6 +55900,7 @@ triangle	O
 -	O
 down	O
 .	O
+NULL
 in	O
 this	O
 paper	O
@@ -54706,6 +55945,7 @@ extraction	O
 in	O
 general	O
 .	O
+NULL
 the	O
 measure	O
 can	O
@@ -54744,6 +55984,7 @@ to	O
 human	O
 annotators	O
 .	O
+NULL
 for	O
 example	O
 ,	O
@@ -54853,6 +56094,7 @@ of	O
 web	O
 search	O
 .	O
+NULL
 on	O
 a	O
 cognitive	O
@@ -54889,6 +56131,7 @@ tasks	O
 15	O
 ]	O
 .	O
+NULL
 for	O
 the	O
 reranking	O
@@ -54921,6 +56164,7 @@ terrier	O
 only	O
 run	O
 .	O
+NULL
 [	O
 8	O
 ]	O
@@ -54943,6 +56187,7 @@ for	O
 visualization	O
 purposes	O
 .	O
+NULL
 perplexity	O
 versus	O
 number	O
@@ -54959,6 +56204,7 @@ gram	O
 language	O
 model	O
 .	O
+NULL
 an	O
 api	O
 for	O
@@ -54975,6 +56221,7 @@ in	O
 10	O
 ]	O
 .	O
+NULL
 classifier	B-Algo
 we	O
 propose	O
@@ -54999,6 +56246,7 @@ nonlinear	O
 decision	O
 boundary	O
 .	O
+NULL
 6	O
 related	O
 work	O
@@ -55097,6 +56345,7 @@ rdbc	O
 44	O
 ]	O
 .	O
+NULL
 although	O
 the	O
 current	O
@@ -55143,6 +56392,7 @@ i	O
 o	O
 capability	O
 .	O
+NULL
 to	O
 obtain	O
 the	O
@@ -55198,6 +56448,7 @@ a	O
 for	O
 all	O
 i.	O
+NULL
 –	O
 rtfidf	O
 (	O
@@ -55216,6 +56467,7 @@ their	O
 rtfidf	O
 scores	O
 .	O
+NULL
 we	O
 have	O
 presented	O
@@ -55231,6 +56483,7 @@ of	O
 svm	B-Algo
 learning	O
 .	O
+NULL
 5	O
 related	O
 methods	O
@@ -55256,6 +56509,7 @@ satisfiability	O
 16	O
 ]	O
 .	O
+NULL
 70.7	O
 %	O
 76.4	O
@@ -55276,6 +56530,7 @@ crf	B-Algo
 +	O
 rel	O
 .	O
+NULL
 recently	O
 ,	O
 there	O
@@ -55320,6 +56575,7 @@ optics	O
 3	O
 ]	O
 .	O
+NULL
 in	O
 future	O
 research	O
@@ -55350,6 +56606,7 @@ saul	O
 2000	O
 )	O
 .	O
+NULL
 however	O
 ,	O
 we	O
@@ -55379,6 +56636,7 @@ reasonably	O
 good	O
 accuracy	O
 .	O
+NULL
 in	O
 [	O
 16	O
@@ -55404,3 +56662,4 @@ using	O
 pca	B-Algo
 )	O
 .	O
+NULL

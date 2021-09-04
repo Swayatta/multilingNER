@@ -56,11 +56,14 @@ def corpus_reader(path, delim='\t', word_idx=0, label_idx=-1):
         for line in reader:
             line = line.strip()
             cols = line.split(delim)
-            if len(cols) < 2:
+            if len(cols)<2 and cols[0]=='NULL':
                 if len(tmp_tok) > 0:
                     tokens.append(tmp_tok); labels.append(tmp_lab)
                 tmp_tok = []
                 tmp_lab = []
+                
+            elif len(cols)<2:
+              continue
             else:
                 tmp_tok.append(cols[word_idx])
                 tmp_lab.append(cols[label_idx])
@@ -156,10 +159,10 @@ class Bert_CRF(BertPreTrainedModel):
 
 def generate_training_data(config, bert_tokenizer="bert-base", do_lower_case=True):
     training_data, validation_data = config.data_dir+config.training_data, config.data_dir+config.val_data 
-    train_sentences, train_labels, label_set = corpus_reader(training_data, delim=' ')
+    train_sentences, train_labels, label_set = corpus_reader(training_data, delim='\t')
     label_set.append('X')
     tag2idx = {t:i for i, t in enumerate(label_set)}
-    # print('Training datas: ', len(train_sentences))
+    print('Training datas: ', len(train_sentences))
     train_dataset = NER_Dataset(tag2idx, train_sentences, train_labels, tokenizer_path = bert_tokenizer, do_lower_case=do_lower_case)
     # save the tag2indx dictionary. Will be used while prediction
     with open(config.apr_dir + 'tag2idx.pkl', 'wb') as f:
