@@ -116,7 +116,7 @@ def pad(batch):
     seq_len = get_element(1)
     maxlen = np.array(seq_len).max()
     # print("Maxlength = ",maxlen)
-    maxlen = 128
+    # maxlen = 128
     do_pad = lambda x, seqlen: [sample[x][:maxlen] + [0] * (seqlen - len(sample[x])) for sample in batch] # 0: <pad>
     tok_ids = do_pad(0, maxlen)
     attn_mask = [[(i>0) for i in ids] for ids in tok_ids] 
