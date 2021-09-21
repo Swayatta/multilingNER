@@ -56,6 +56,8 @@ def corpus_reader(path, delim='\t', word_idx=0, label_idx=-1):
         for line in reader:
             line = line.strip()
             cols = line.split(delim)
+            if len(cols[label_idx])>=10:
+              continue
             if len(cols)<2 and cols[0] == '' :
               if len(tmp_tok) > 0 and len(tmp_tok)<110:
                   tokens.append(tmp_tok); labels.append(tmp_lab)
