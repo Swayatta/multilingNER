@@ -1,9 +1,16 @@
 # BERT_CRF
 BERT_CRF model for Name Entity Recognition in pytorch</br>
-Dataset source: https://github.com/synalp/NER</br>conlleval.py downloaded from: https://github.com/sighsmile/conlleval
 
-For traninig a model: python bert_crf.py --mode train <br>
-For testing the model: python bert_crf.py --mode test <br>
-**Note: While testing, change line 120 : maxlen = 128 --> comment out this line**
+**Setting up the initial requirements** <br>
+pip install -r requirements.txt<br>
 
-You can check the notebook at https://github.com/Dhanachandra/bert-crf4NER/blob/master/bert-crf4NER/bert_crf_4_ner_training.ipynb
+**For traninig a model**: <br>
+Keep the training data file in the corpus directory<br>
+cd bert-crf4NER <br>
+python bert_crf.py --mode train <br>
+
+**For testing the model**: <br>
+Keep the test/dev data file in the corpus directory<br>
+cd bert-crf4NER <br>
+python bert_crf.py --mode test <br>
+
